@@ -1,0 +1,7805 @@
+1.
+Name: Apple iPhone 15 Pro
+Category: Smartphone
+Key Features: A17 chip, 48MP camera, titanium body, iOS ecosystem
+Price: ₹134,900
+Best Use Case: Premium photography and performance users
+
+2.
+Name: Samsung Galaxy S24 Ultra
+Category: Smartphone
+Key Features: 200MP camera, Snapdragon 8 Gen 3, S-Pen, AMOLED display
+Price: ₹129,999
+Best Use Case: Power users and camera enthusiasts
+
+3.
+Name: Google Pixel 8 Pro
+Category: Smartphone
+Key Features: AI camera, Tensor G3, stock Android, long software support
+Price: ₹106,999
+Best Use Case: Photography and clean Android experience
+
+4.
+Name: OnePlus 12
+Category: Smartphone
+Key Features: Snapdragon 8 Gen 3, 120Hz display, fast charging
+Price: ₹64,999
+Best Use Case: High performance at competitive price
+
+5.
+Name: Xiaomi 14 Pro
+Category: Smartphone
+Key Features: Leica camera, AMOLED display, fast charging
+Price: ₹59,999
+Best Use Case: Flagship features at mid-range cost
+
+6.
+Name: Realme GT 6
+Category: Smartphone
+Key Features: High refresh rate display, strong battery, fast charging
+Price: ₹34,999
+Best Use Case: Gaming and daily performance
+
+7.
+Name: iQOO Neo 9 Pro
+Category: Smartphone
+Key Features: Gaming chipset, vapor cooling, fast charging
+Price: ₹36,999
+Best Use Case: Mobile gaming
+
+8.
+Name: Motorola Edge 50 Pro
+Category: Smartphone
+Key Features: Clean Android, curved OLED, fast charging
+Price: ₹31,999
+Best Use Case: Stock Android lovers
+
+9.
+Name: Vivo X100 Pro
+Category: Smartphone
+Key Features: Zeiss camera, Dimensity chipset, premium design
+Price: ₹89,999
+Best Use Case: Camera-focused users
+
+10.
+Name: Oppo Find X7
+Category: Smartphone
+Key Features: Premium camera, AMOLED display, fast charging
+Price: ₹74,999
+Best Use Case: Multimedia and photography
+
+11.
+Name: Samsung Galaxy A55
+Category: Smartphone
+Key Features: AMOLED display, solid battery, Samsung reliability
+Price: ₹39,999
+Best Use Case: Balanced everyday smartphone
+
+12.
+Name: Redmi Note 13 Pro
+Category: Smartphone
+Key Features: 200MP camera, AMOLED display, fast charging
+Price: ₹28,999
+Best Use Case: Camera on budget
+
+13.
+Name: Poco X6 Pro
+Category: Smartphone
+Key Features: Powerful processor, high refresh rate, value pricing
+Price: ₹26,999
+Best Use Case: Budget gaming phone
+
+14.
+Name: Asus ROG Phone 8
+Category: Smartphone
+Key Features: Gaming triggers, cooling system, AMOLED display
+Price: ₹79,999
+Best Use Case: Hardcore mobile gaming
+
+15.
+Name: Nothing Phone (2)
+Category: Smartphone
+Key Features: Glyph interface, clean UI, premium design
+Price: ₹44,999
+Best Use Case: Unique design enthusiasts
+
+16.
+Name: Tesla Model 3
+Category: Electric Car
+Key Features: Autopilot, long range battery, minimalist interior
+Price: ₹45,00,000
+Best Use Case: Premium electric commuting
+
+17.
+Name: Tesla Model Y
+Category: Electric SUV
+Key Features: High safety rating, long range, spacious cabin
+Price: ₹48,00,000
+Best Use Case: Family electric vehicle
+
+18.
+Name: Tata Nexon EV
+Category: Electric SUV
+Key Features: Indian EV, good range, strong build quality
+Price: ₹18,50,000
+Best Use Case: Affordable electric SUV
+
+19.
+Name: Tata Tiago EV
+Category: Electric Hatchback
+Key Features: Compact EV, low running cost, city-friendly
+Price: ₹9,50,000
+Best Use Case: Daily city commute
+
+20.
+Name: Mahindra XUV400 EV
+Category: Electric SUV
+Key Features: Strong torque, fast charging, SUV design
+Price: ₹17,00,000
+Best Use Case: Electric SUV buyers
+
+21.
+Name: Hyundai Creta
+Category: SUV
+Key Features: Comfortable ride, modern features, reliability
+Price: ₹15,00,000
+Best Use Case: Family travel
+
+22.
+Name: Kia Seltos
+Category: SUV
+Key Features: Stylish design, feature-rich interior
+Price: ₹14,80,000
+Best Use Case: Urban family car
+
+23.
+Name: Maruti Suzuki Swift
+Category: Hatchback
+Key Features: Fuel efficient, low maintenance
+Price: ₹7,50,000
+Best Use Case: Budget daily commute
+
+24.
+Name: Maruti Baleno
+Category: Hatchback
+Key Features: Spacious, fuel efficient, affordable
+Price: ₹8,90,000
+Best Use Case: City driving
+
+25.
+Name: Toyota Fortuner
+Category: SUV
+Key Features: Powerful engine, off-road capability
+Price: ₹48,00,000
+Best Use Case: Off-road and luxury SUV
+
+26.
+Name: Toyota Innova Hycross
+Category: MPV
+Key Features: Hybrid engine, spacious seating
+Price: ₹30,00,000
+Best Use Case: Family long trips
+
+27.
+Name: Honda City
+Category: Sedan
+Key Features: Smooth engine, comfort, reliability
+Price: ₹15,00,000
+Best Use Case: Comfortable city and highway drives
+
+28.
+Name: Skoda Slavia
+Category: Sedan
+Key Features: Turbo engine, European build
+Price: ₹14,50,000
+Best Use Case: Driving enthusiasts
+
+29.
+Name: Volkswagen Virtus
+Category: Sedan
+Key Features: Performance engine, safety
+Price: ₹15,50,000
+Best Use Case: Sporty driving
+
+30.
+Name: BMW X5
+Category: Luxury SUV
+Key Features: Premium interior, powerful engine
+Price: ₹95,00,000
+Best Use Case: Luxury travel
+
+31.
+Name: Mercedes-Benz C-Class
+Category: Luxury Sedan
+Key Features: Premium comfort, advanced tech
+Price: ₹65,00,000
+Best Use Case: Executive luxury
+
+32.
+Name: Audi A4
+Category: Luxury Sedan
+Key Features: Smooth performance, premium interior
+Price: ₹60,00,000
+Best Use Case: Business professionals
+
+33.
+Name: Royal Enfield Classic 350
+Category: Motorcycle
+Key Features: Retro design, comfortable ride
+Price: ₹2,20,000
+Best Use Case: Leisure riding
+
+34.
+Name: Royal Enfield Himalayan
+Category: Adventure Bike
+Key Features: Off-road ready, strong suspension
+Price: ₹2,80,000
+Best Use Case: Touring and adventure
+
+35.
+Name: KTM Duke 390
+Category: Motorcycle
+Key Features: Lightweight, powerful engine
+Price: ₹3,10,000
+Best Use Case: Performance biking
+
+36.
+Name: Bajaj Pulsar NS200
+Category: Motorcycle
+Key Features: Sporty design, affordable power
+Price: ₹1,55,000
+Best Use Case: Young riders
+
+37.
+Name: Yamaha R15 V4
+Category: Sports Bike
+Key Features: Racing design, high mileage
+Price: ₹1,85,000
+Best Use Case: Entry-level sports riding
+
+38.
+Name: TVS Apache RTR 200
+Category: Motorcycle
+Key Features: Performance tuning, good handling
+Price: ₹1,60,000
+Best Use Case: Daily sport riding
+
+39.
+Name: Ola S1 Pro
+Category: Electric Scooter
+Key Features: Smart dashboard, fast acceleration
+Price: ₹1,40,000
+Best Use Case: City commuting
+
+40.
+Name: Ather 450X
+Category: Electric Scooter
+Key Features: Premium EV, fast charging
+Price: ₹1,60,000
+Best Use Case: Urban electric mobility
+
+41.
+Name: Apple iPhone 14
+Category: Smartphone
+Key Features: A15 chip, dual camera, iOS stability
+Price: ₹69,900
+Best Use Case: Reliable everyday iPhone users
+
+42.
+Name: Apple iPhone SE 3
+Category: Smartphone
+Key Features: Compact design, A15 chip, Touch ID
+Price: ₹49,900
+Best Use Case: Small phone lovers
+
+43.
+Name: Samsung Galaxy S23
+Category: Smartphone
+Key Features: Snapdragon 8 Gen 2, AMOLED display
+Price: ₹74,999
+Best Use Case: Compact Android flagship
+
+44.
+Name: Samsung Galaxy A35
+Category: Smartphone
+Key Features: AMOLED display, solid battery
+Price: ₹30,999
+Best Use Case: Budget Samsung users
+
+45.
+Name: Google Pixel 7a
+Category: Smartphone
+Key Features: Tensor chip, great camera
+Price: ₹43,999
+Best Use Case: Photography on budget
+
+46.
+Name: OnePlus Nord 3
+Category: Smartphone
+Key Features: Dimensity chipset, fast charging
+Price: ₹33,999
+Best Use Case: Balanced mid-range phone
+
+47.
+Name: Xiaomi Redmi 13C
+Category: Smartphone
+Key Features: Large battery, budget pricing
+Price: ₹9,999
+Best Use Case: Entry-level users
+
+48.
+Name: Poco M6 Pro
+Category: Smartphone
+Key Features: Strong battery, value pricing
+Price: ₹11,999
+Best Use Case: Budget performance
+
+49.
+Name: Vivo Y200
+Category: Smartphone
+Key Features: AMOLED display, slim design
+Price: ₹23,999
+Best Use Case: Style-focused users
+
+50.
+Name: Oppo A79
+Category: Smartphone
+Key Features: Clean UI, reliable camera
+Price: ₹18,999
+Best Use Case: Everyday use
+
+51.
+Name: Lava Agni 2
+Category: Smartphone
+Key Features: Indian brand, curved AMOLED
+Price: ₹21,999
+Best Use Case: Supporting Indian brands
+
+52.
+Name: Infinix Zero 30
+Category: Smartphone
+Key Features: 4K selfie video, AMOLED display
+Price: ₹19,999
+Best Use Case: Content creators
+
+53.
+Name: Tecno Phantom V Fold
+Category: Foldable Smartphone
+Key Features: Foldable display, multitasking
+Price: ₹88,888
+Best Use Case: Productivity and innovation
+
+54.
+Name: Samsung Galaxy Z Fold 5
+Category: Foldable Smartphone
+Key Features: Large foldable screen, multitasking
+Price: ₹1,64,999
+Best Use Case: Power users
+
+55.
+Name: Samsung Galaxy Z Flip 5
+Category: Foldable Smartphone
+Key Features: Compact fold, stylish design
+Price: ₹99,999
+Best Use Case: Fashion-focused users
+
+56.
+Name: Nokia G42
+Category: Smartphone
+Key Features: Durable build, clean Android
+Price: ₹12,999
+Best Use Case: Long-term usage
+
+57.
+Name: Sony Xperia 1 V
+Category: Smartphone
+Key Features: Professional camera tuning
+Price: ₹1,29,999
+Best Use Case: Photography professionals
+
+58.
+Name: Asus Zenfone 10
+Category: Smartphone
+Key Features: Compact flagship, clean UI
+Price: ₹69,999
+Best Use Case: One-hand usage
+
+59.
+Name: Micromax In Note 2
+Category: Smartphone
+Key Features: Stock Android, affordable
+Price: ₹10,999
+Best Use Case: Budget Android users
+
+60.
+Name: Fairphone 5
+Category: Smartphone
+Key Features: Repairable design, sustainability
+Price: ₹59,999
+Best Use Case: Eco-conscious users
+
+61.
+Name: Hyundai i20
+Category: Hatchback
+Key Features: Premium interior, smooth engine
+Price: ₹9,90,000
+Best Use Case: City driving
+
+62.
+Name: Tata Altroz
+Category: Hatchback
+Key Features: 5-star safety rating
+Price: ₹8,50,000
+Best Use Case: Safety-conscious buyers
+
+63.
+Name: Maruti WagonR
+Category: Hatchback
+Key Features: Spacious, fuel efficient
+Price: ₹6,50,000
+Best Use Case: Family city car
+
+64.
+Name: Renault Kwid
+Category: Hatchback
+Key Features: Budget friendly, compact
+Price: ₹5,50,000
+Best Use Case: First-time car buyers
+
+65.
+Name: Hyundai Verna
+Category: Sedan
+Key Features: Turbo engine, premium feel
+Price: ₹17,50,000
+Best Use Case: Highway cruising
+
+66.
+Name: Skoda Kushaq
+Category: SUV
+Key Features: Solid build, turbo engine
+Price: ₹16,00,000
+Best Use Case: Driving enthusiasts
+
+67.
+Name: Volkswagen Taigun
+Category: SUV
+Key Features: Performance focused
+Price: ₹16,50,000
+Best Use Case: Sporty driving
+
+68.
+Name: MG Hector
+Category: SUV
+Key Features: Large infotainment screen
+Price: ₹18,00,000
+Best Use Case: Tech lovers
+
+69.
+Name: MG ZS EV
+Category: Electric SUV
+Key Features: Long range, premium EV
+Price: ₹23,00,000
+Best Use Case: Electric family car
+
+70.
+Name: Citroen C3
+Category: Hatchback
+Key Features: Comfortable suspension
+Price: ₹7,00,000
+Best Use Case: Rough roads
+
+71.
+Name: Jeep Compass
+Category: SUV
+Key Features: Off-road capability
+Price: ₹25,00,000
+Best Use Case: Adventure driving
+
+72.
+Name: Jeep Wrangler
+Category: Off-road SUV
+Key Features: Extreme off-road ability
+Price: ₹65,00,000
+Best Use Case: Hardcore off-roading
+
+73.
+Name: Ford Endeavour
+Category: SUV
+Key Features: Powerful diesel engine
+Price: ₹50,00,000
+Best Use Case: Large family SUV
+
+74.
+Name: Isuzu D-Max V-Cross
+Category: Pickup Truck
+Key Features: Strong build, off-road ready
+Price: ₹30,00,000
+Best Use Case: Utility and adventure
+
+75.
+Name: Volvo XC60
+Category: Luxury SUV
+Key Features: Safety focused, hybrid engine
+Price: ₹68,00,000
+Best Use Case: Safe luxury travel
+
+76.
+Name: Volvo XC90
+Category: Luxury SUV
+Key Features: Spacious, premium safety
+Price: ₹98,00,000
+Best Use Case: Luxury family trips
+
+77.
+Name: Porsche Macan
+Category: Luxury SUV
+Key Features: Sports performance
+Price: ₹88,00,000
+Best Use Case: Performance luxury
+
+78.
+Name: Lamborghini Urus
+Category: Super SUV
+Key Features: Extreme power, luxury
+Price: ₹4,20,00,000
+Best Use Case: Ultra-luxury performance
+
+79.
+Name: Ferrari Roma
+Category: Sports Car
+Key Features: V8 engine, premium design
+Price: ₹3,75,00,000
+Best Use Case: Grand touring
+
+80.
+Name: Tesla Cybertruck
+Category: Electric Pickup
+Key Features: Futuristic design, EV power
+Price: ₹60,00,000
+Best Use Case: Innovation enthusiasts
+
+81.
+Name: BMW i4
+Category: Electric Sedan
+Key Features: Sporty EV, premium interior
+Price: ₹72,00,000
+Best Use Case: Luxury electric driving
+
+82.
+Name: Audi Q8 e-tron
+Category: Electric SUV
+Key Features: Luxury EV, quiet ride
+Price: ₹1,20,00,000
+Best Use Case: Premium EV users
+
+83.
+Name: Mercedes EQS
+Category: Electric Sedan
+Key Features: Luxury EV, long range
+Price: ₹1,60,00,000
+Best Use Case: Executive EV
+
+84.
+Name: Tata Safari
+Category: SUV
+Key Features: Spacious, strong road presence
+Price: ₹25,00,000
+Best Use Case: Large families
+
+85.
+Name: Mahindra Thar
+Category: Off-road SUV
+Key Features: 4x4, rugged build
+Price: ₹17,00,000
+Best Use Case: Off-road adventures
+
+86.
+Name: Mahindra Scorpio N
+Category: SUV
+Key Features: Powerful engine, rugged
+Price: ₹20,00,000
+Best Use Case: Highway + off-road
+
+87.
+Name: Hero Splendor Plus
+Category: Motorcycle
+Key Features: Excellent mileage
+Price: ₹75,000
+Best Use Case: Daily commuting
+
+88.
+Name: Honda Shine
+Category: Motorcycle
+Key Features: Smooth engine
+Price: ₹80,000
+Best Use Case: Reliable commuting
+
+89.
+Name: TVS Raider 125
+Category: Motorcycle
+Key Features: Sporty commuter
+Price: ₹95,000
+Best Use Case: Youth riders
+
+90.
+Name: Bajaj Platina
+Category: Motorcycle
+Key Features: High mileage
+Price: ₹70,000
+Best Use Case: Budget commuting
+
+91.
+Name: Yamaha MT-15
+Category: Motorcycle
+Key Features: Sporty design
+Price: ₹1,70,000
+Best Use Case: City performance
+
+92.
+Name: KTM RC 390
+Category: Sports Bike
+Key Features: Track-focused
+Price: ₹3,20,000
+Best Use Case: Racing enthusiasts
+
+93.
+Name: BMW G 310 R
+Category: Motorcycle
+Key Features: Premium entry-level
+Price: ₹2,90,000
+Best Use Case: Premium biking
+
+94.
+Name: Kawasaki Ninja 300
+Category: Sports Bike
+Key Features: Smooth twin-cylinder
+Price: ₹3,40,000
+Best Use Case: Entry-level sports bike
+
+95.
+Name: Ducati Monster
+Category: Motorcycle
+Key Features: Naked sport bike
+Price: ₹12,00,000
+Best Use Case: Premium street riding
+
+96.
+Name: Harley-Davidson Iron 883
+Category: Cruiser
+Key Features: Classic cruiser style
+Price: ₹11,00,000
+Best Use Case: Relaxed touring
+
+97.
+Name: Suzuki Access 125
+Category: Scooter
+Key Features: Reliable, fuel efficient
+Price: ₹85,000
+Best Use Case: Daily commuting
+
+98.
+Name: Honda Activa 6G
+Category: Scooter
+Key Features: Smooth ride, reliability
+Price: ₹80,000
+Best Use Case: Everyday city travel
+
+99.
+Name: TVS Jupiter
+Category: Scooter
+Key Features: Comfort-focused
+Price: ₹82,000
+Best Use Case: Family scooter
+
+100.
+Name: Vespa SXL 150
+Category: Scooter
+Key Features: Premium design
+Price: ₹1,40,000
+Best Use Case: Stylish commuting
+
+101.
+Name: BMW S1000RR
+Category: Superbike
+Key Features: Track-ready performance
+Price: ₹23,00,000
+Best Use Case: Racing professionals
+
+102.
+Name: Triumph Street Triple
+Category: Motorcycle
+Key Features: Balanced performance
+Price: ₹10,50,000
+Best Use Case: Sport touring
+
+103.
+Name: Royal Enfield Meteor 350
+Category: Cruiser
+Key Features: Comfortable long rides
+Price: ₹2,30,000
+Best Use Case: Highway cruising
+
+104.
+Name: Royal Enfield Interceptor 650
+Category: Motorcycle
+Key Features: Twin-cylinder engine
+Price: ₹3,10,000
+Best Use Case: Weekend touring
+
+105.
+Name: Honda CB650R
+Category: Motorcycle
+Key Features: Smooth inline-4
+Price: ₹9,20,000
+Best Use Case: Premium riding
+
+106.
+Name: Yamaha FZ-X
+Category: Motorcycle
+Key Features: Retro styling
+Price: ₹1,35,000
+Best Use Case: City commuting
+
+107.
+Name: Suzuki Gixxer SF
+Category: Sports Bike
+Key Features: Fully faired
+Price: ₹1,45,000
+Best Use Case: Sporty daily rides
+
+108.
+Name: Ather Rizta
+Category: Electric Scooter
+Key Features: Family-oriented EV
+Price: ₹1,20,000
+Best Use Case: Daily electric commute
+
+109.
+Name: Ola S1 Air
+Category: Electric Scooter
+Key Features: Affordable EV
+Price: ₹1,05,000
+Best Use Case: Budget electric travel
+
+110.
+Name: Simple One
+Category: Electric Scooter
+Key Features: Long range EV
+Price: ₹1,45,000
+Best Use Case: Long city rides
+
+111.
+Name: Revolt RV400
+Category: Electric Bike
+Key Features: Electric motorcycle
+Price: ₹1,40,000
+Best Use Case: Eco-friendly commuting
+
+112.
+Name: Tork Kratos R
+Category: Electric Bike
+Key Features: Performance EV bike
+Price: ₹1,90,000
+Best Use Case: Electric performance
+
+113.
+Name: Ultraviolette F77
+Category: Electric Motorcycle
+Key Features: High performance EV
+Price: ₹3,80,000
+Best Use Case: Premium electric biking
+
+114.
+Name: Tata Ace EV
+Category: Electric Commercial Vehicle
+Key Features: Cargo transport
+Price: ₹9,99,000
+Best Use Case: Commercial delivery
+
+115.
+Name: Ashok Leyland Dost
+Category: Commercial Vehicle
+Key Features: High payload
+Price: ₹8,50,000
+Best Use Case: Logistics
+
+116.
+Name: Mahindra Bolero
+Category: SUV
+Key Features: Rugged build
+Price: ₹10,50,000
+Best Use Case: Rural driving
+
+117.
+Name: Force Gurkha
+Category: Off-road SUV
+Key Features: Hardcore off-roader
+Price: ₹16,00,000
+Best Use Case: Extreme terrains
+
+118.
+Name: Nissan Magnite
+Category: SUV
+Key Features: Affordable compact SUV
+Price: ₹8,00,000
+Best Use Case: Budget SUV buyers
+
+119.
+Name: Renault Kiger
+Category: SUV
+Key Features: Compact design
+Price: ₹8,50,000
+Best Use Case: Urban driving
+
+120.
+Name: Hyundai Exter
+Category: Micro SUV
+Key Features: Compact, feature-rich
+Price: ₹7,50,000
+Best Use Case: City families
+
+121.
+Name: Maruti Fronx
+Category: Crossover
+Key Features: Stylish compact SUV
+Price: ₹9,50,000
+Best Use Case: Urban crossover
+
+122.
+Name: Toyota Urban Cruiser Hyryder
+Category: Hybrid SUV
+Key Features: Hybrid mileage
+Price: ₹17,00,000
+Best Use Case: Fuel-efficient SUV
+
+123.
+Name: Lexus RX
+Category: Luxury SUV
+Key Features: Premium hybrid
+Price: ₹1,10,00,000
+Best Use Case: Luxury family travel
+
+124.
+Name: Lexus ES
+Category: Luxury Sedan
+Key Features: Hybrid comfort
+Price: ₹70,00,000
+Best Use Case: Executive comfort
+
+125.
+Name: Bugatti Chiron
+Category: Hypercar
+Key Features: Extreme speed
+Price: ₹19,00,00,000
+Best Use Case: Ultra-rich collectors
+
+126.
+Name: McLaren 720S
+Category: Supercar
+Key Features: Lightweight performance
+Price: ₹4,50,00,000
+Best Use Case: Track performance
+
+127.
+Name: Aston Martin DB11
+Category: Sports Car
+Key Features: Luxury GT
+Price: ₹3,80,00,000
+Best Use Case: Grand touring
+
+128.
+Name: Rolls-Royce Ghost
+Category: Luxury Sedan
+Key Features: Ultimate luxury
+Price: ₹7,00,00,000
+Best Use Case: Ultra-luxury travel
+
+129.
+Name: Rolls-Royce Cullinan
+Category: Luxury SUV
+Key Features: Luxury SUV
+Price: ₹8,50,00,000
+Best Use Case: Elite families
+
+130.
+Name: Bentley Continental GT
+Category: Luxury Coupe
+Key Features: Handcrafted luxury
+Price: ₹5,00,00,000
+Best Use Case: Luxury touring
+
+131.
+Name: Skoda Octavia
+Category: Sedan
+Key Features: Performance + comfort
+Price: ₹27,00,000
+Best Use Case: Driving enthusiasts
+
+132.
+Name: Honda Amaze
+Category: Sedan
+Key Features: Budget sedan
+Price: ₹9,50,000
+Best Use Case: Affordable family car
+
+133.
+Name: Hyundai Aura
+Category: Sedan
+Key Features: Compact sedan
+Price: ₹8,50,000
+Best Use Case: City use
+
+134.
+Name: Tata Tigor
+Category: Sedan
+Key Features: Safety focused
+Price: ₹8,00,000
+Best Use Case: Safe city driving
+
+135.
+Name: Citroen C5 Aircross
+Category: SUV
+Key Features: Comfort suspension
+Price: ₹36,00,000
+Best Use Case: Long drives
+
+136.
+Name: BYD Atto 3
+Category: Electric SUV
+Key Features: Blade battery
+Price: ₹34,00,000
+Best Use Case: Premium EV buyers
+
+137.
+Name: BYD Seal
+Category: Electric Sedan
+Key Features: Performance EV
+Price: ₹45,00,000
+Best Use Case: Sporty EV
+
+138.
+Name: MG Comet EV
+Category: Electric Hatchback
+Key Features: Ultra-compact EV
+Price: ₹8,00,000
+Best Use Case: City commute
+
+139.
+Name: Tata Punch
+Category: Micro SUV
+Key Features: 5-star safety
+Price: ₹7,00,000
+Best Use Case: Entry SUV buyers
+
+140.
+Name: Maruti Ignis
+Category: Hatchback
+Key Features: Compact design
+Price: ₹7,80,000
+Best Use Case: Youth city car
+
+141.
+Name: Apple iPhone 15 Pro
+Category: Smartphone
+Key Features: A17 chip, titanium body
+Price: ₹1,34,900
+Best Use Case: Power users
+
+142.
+Name: Apple iPhone 15
+Category: Smartphone
+Key Features: USB-C, improved camera
+Price: ₹79,900
+Best Use Case: Everyday premium use
+
+143.
+Name: Samsung Galaxy S24 Ultra
+Category: Smartphone
+Key Features: AI features, S-Pen
+Price: ₹1,29,999
+Best Use Case: Productivity and photography
+
+144.
+Name: Samsung Galaxy M34
+Category: Smartphone
+Key Features: 6000mAh battery
+Price: ₹18,999
+Best Use Case: Battery-focused users
+
+145.
+Name: Google Pixel 8
+Category: Smartphone
+Key Features: AI camera, clean Android
+Price: ₹75,999
+Best Use Case: Photography lovers
+
+146.
+Name: OnePlus 12
+Category: Smartphone
+Key Features: Snapdragon 8 Gen 3
+Price: ₹64,999
+Best Use Case: Flagship performance
+
+147.
+Name: Xiaomi 14
+Category: Smartphone
+Key Features: Leica camera
+Price: ₹69,999
+Best Use Case: Camera enthusiasts
+
+148.
+Name: Redmi Note 13 Pro+
+Category: Smartphone
+Key Features: 200MP camera
+Price: ₹31,999
+Best Use Case: Camera on budget
+
+149.
+Name: Poco X6 Pro
+Category: Smartphone
+Key Features: Dimensity 8300
+Price: ₹26,999
+Best Use Case: Gaming mid-range
+
+150.
+Name: Vivo X100 Pro
+Category: Smartphone
+Key Features: Zeiss optics
+Price: ₹89,999
+Best Use Case: Professional photography
+
+151.
+Name: Oppo Reno 11
+Category: Smartphone
+Key Features: Portrait camera
+Price: ₹29,999
+Best Use Case: Social media users
+
+152.
+Name: Motorola Edge 40
+Category: Smartphone
+Key Features: Clean UI, fast charging
+Price: ₹27,999
+Best Use Case: Clean Android lovers
+
+153.
+Name: Motorola G84
+Category: Smartphone
+Key Features: OLED display
+Price: ₹18,999
+Best Use Case: Budget multimedia
+
+154.
+Name: iQOO Neo 9 Pro
+Category: Smartphone
+Key Features: Gaming processor
+Price: ₹35,999
+Best Use Case: Mobile gamers
+
+155.
+Name: Asus ROG Phone 7
+Category: Smartphone
+Key Features: Gaming triggers
+Price: ₹74,999
+Best Use Case: Hardcore gaming
+
+156.
+Name: Sony Xperia 5 V
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹89,999
+Best Use Case: One-hand usage
+
+157.
+Name: Nokia XR21
+Category: Smartphone
+Key Features: Rugged build
+Price: ₹49,999
+Best Use Case: Outdoor usage
+
+158.
+Name: Tecno Spark 20
+Category: Smartphone
+Key Features: Budget friendly
+Price: ₹8,999
+Best Use Case: First-time users
+
+159.
+Name: Infinix Note 30
+Category: Smartphone
+Key Features: Large display
+Price: ₹12,999
+Best Use Case: Media consumption
+
+160.
+Name: Realme Narzo 60
+Category: Smartphone
+Key Features: AMOLED screen
+Price: ₹17,999
+Best Use Case: Youth users
+
+--- VEHICLES START ---
+
+161.
+Name: Maruti Swift
+Category: Hatchback
+Key Features: Fuel efficient
+Price: ₹6,50,000
+Best Use Case: City driving
+
+162.
+Name: Hyundai Creta
+Category: SUV
+Key Features: Comfort and features
+Price: ₹18,00,000
+Best Use Case: Family travel
+
+163.
+Name: Kia Seltos
+Category: SUV
+Key Features: Premium interior
+Price: ₹17,50,000
+Best Use Case: Stylish SUV buyers
+
+164.
+Name: Toyota Fortuner
+Category: SUV
+Key Features: Powerful diesel
+Price: ₹40,00,000
+Best Use Case: Highway + off-road
+
+165.
+Name: Honda City
+Category: Sedan
+Key Features: Reliable engine
+Price: ₹15,00,000
+Best Use Case: Comfortable commuting
+
+166.
+Name: Skoda Slavia
+Category: Sedan
+Key Features: Turbo performance
+Price: ₹16,50,000
+Best Use Case: Driving enthusiasts
+
+167.
+Name: Tata Nexon
+Category: SUV
+Key Features: 5-star safety
+Price: ₹15,00,000
+Best Use Case: Safe family car
+
+168.
+Name: Mahindra XUV700
+Category: SUV
+Key Features: ADAS features
+Price: ₹25,00,000
+Best Use Case: Tech-savvy buyers
+
+169.
+Name: Maruti Brezza
+Category: SUV
+Key Features: Reliability
+Price: ₹13,00,000
+Best Use Case: Urban families
+
+170.
+Name: Hyundai Venue
+Category: SUV
+Key Features: Compact size
+Price: ₹12,50,000
+Best Use Case: City SUV
+
+171.
+Name: Kia Sonet
+Category: SUV
+Key Features: Premium compact SUV
+Price: ₹12,00,000
+Best Use Case: Feature lovers
+
+172.
+Name: Renault Triber
+Category: MPV
+Key Features: 7-seater
+Price: ₹8,50,000
+Best Use Case: Budget families
+
+173.
+Name: Toyota Innova Crysta
+Category: MPV
+Key Features: Comfortable long drives
+Price: ₹22,00,000
+Best Use Case: Large families
+
+174.
+Name: Maruti Ertiga
+Category: MPV
+Key Features: Fuel efficient
+Price: ₹11,50,000
+Best Use Case: Affordable MPV
+
+175.
+Name: Tata Harrier
+Category: SUV
+Key Features: Strong road presence
+Price: ₹24,00,000
+Best Use Case: Highway cruising
+
+176.
+Name: Hyundai Tucson
+Category: SUV
+Key Features: Premium SUV
+Price: ₹34,00,000
+Best Use Case: Luxury commuting
+
+177.
+Name: BMW X1
+Category: Luxury SUV
+Key Features: Premium interior
+Price: ₹50,00,000
+Best Use Case: Entry luxury buyers
+
+178.
+Name: Audi A4
+Category: Luxury Sedan
+Key Features: Comfort + performance
+Price: ₹55,00,000
+Best Use Case: Executive travel
+
+179.
+Name: Mercedes C-Class
+Category: Luxury Sedan
+Key Features: Premium build
+Price: ₹60,00,000
+Best Use Case: Business professionals
+
+180.
+Name: Jaguar XF
+Category: Luxury Sedan
+Key Features: Sporty handling
+Price: ₹70,00,000
+Best Use Case: Luxury performance
+
+--- MOTORCYCLES ---
+
+181.
+Name: Royal Enfield Classic 350
+Category: Motorcycle
+Key Features: Retro design
+Price: ₹2,10,000
+Best Use Case: Relaxed riding
+
+182.
+Name: Royal Enfield Himalayan
+Category: Adventure Bike
+Key Features: Off-road ready
+Price: ₹2,20,000
+Best Use Case: Adventure touring
+
+183.
+Name: Bajaj Pulsar N160
+Category: Motorcycle
+Key Features: Sporty commuter
+Price: ₹1,35,000
+Best Use Case: Daily sporty rides
+
+184.
+Name: Yamaha R15 V4
+Category: Sports Bike
+Key Features: Track design
+Price: ₹1,80,000
+Best Use Case: Entry sports biking
+
+185.
+Name: KTM Duke 250
+Category: Motorcycle
+Key Features: Lightweight performance
+Price: ₹2,40,000
+Best Use Case: City performance
+
+186.
+Name: Honda H’ness CB350
+Category: Motorcycle
+Key Features: Smooth engine
+Price: ₹2,10,000
+Best Use Case: Highway cruising
+
+187.
+Name: TVS Apache RTR 200
+Category: Motorcycle
+Key Features: Performance focused
+Price: ₹1,50,000
+Best Use Case: Aggressive riding
+
+188.
+Name: Suzuki V-Strom SX
+Category: Adventure Bike
+Key Features: Touring comfort
+Price: ₹2,15,000
+Best Use Case: Touring
+
+189.
+Name: Hero Xpulse 200
+Category: Adventure Bike
+Key Features: Off-road ability
+Price: ₹1,40,000
+Best Use Case: Budget adventure
+
+190.
+Name: Bajaj Dominar 400
+Category: Sports Tourer
+Key Features: Long-distance comfort
+Price: ₹2,30,000
+Best Use Case: Highway touring
+
+191.
+Name: Apple iPhone 13
+Category: Smartphone
+Key Features: A15 Bionic, OLED display
+Price: ₹69,900
+Best Use Case: Reliable long-term use
+
+192.
+Name: Apple iPhone 13 Mini
+Category: Smartphone
+Key Features: Compact size, A15 chip
+Price: ₹64,900
+Best Use Case: One-hand usage
+
+193.
+Name: Apple iPhone 12
+Category: Smartphone
+Key Features: OLED display, MagSafe
+Price: ₹59,900
+Best Use Case: Premium budget iPhone
+
+194.
+Name: Samsung Galaxy S21 FE
+Category: Smartphone
+Key Features: AMOLED, flagship feel
+Price: ₹49,999
+Best Use Case: Value flagship users
+
+195.
+Name: Samsung Galaxy A34
+Category: Smartphone
+Key Features: AMOLED, 5G
+Price: ₹20,999
+Best Use Case: Budget 5G users
+
+196.
+Name: Samsung Galaxy A54
+Category: Smartphone
+Key Features: Premium design
+Price: ₹38,999
+Best Use Case: Long-term Android users
+
+197.
+Name: OnePlus 11R
+Category: Smartphone
+Key Features: Snapdragon processor
+Price: ₹39,999
+Best Use Case: Performance users
+
+198.
+Name: OnePlus Nord CE 3
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹26,999
+Best Use Case: Mid-range users
+
+199.
+Name: Xiaomi 12 Pro
+Category: Smartphone
+Key Features: Flagship camera
+Price: ₹62,999
+Best Use Case: Power users
+
+200.
+Name: Redmi Note 12 Pro+
+Category: Smartphone
+Key Features: 200MP camera
+Price: ₹29,999
+Best Use Case: Camera-focused buyers
+
+201.
+Name: Realme Narzo 60
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹17,999
+Best Use Case: Students
+
+202.
+Name: Realme GT Neo 3
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹36,999
+Best Use Case: Performance gaming
+
+203.
+Name: iQOO Neo 7
+Category: Smartphone
+Key Features: Gaming chipset
+Price: ₹31,999
+Best Use Case: Mobile gamers
+
+204.
+Name: Vivo V27
+Category: Smartphone
+Key Features: Slim design
+Price: ₹32,999
+Best Use Case: Style-focused users
+
+205.
+Name: Oppo Reno 8
+Category: Smartphone
+Key Features: Camera tuning
+Price: ₹29,999
+Best Use Case: Social media creators
+
+206.
+Name: Google Pixel 6a
+Category: Smartphone
+Key Features: Tensor chip
+Price: ₹43,999
+Best Use Case: Clean Android lovers
+
+207.
+Name: Motorola Edge 40
+Category: Smartphone
+Key Features: Curved display
+Price: ₹29,999
+Best Use Case: Premium mid-range
+
+208.
+Name: Nokia XR20
+Category: Smartphone
+Key Features: Rugged build
+Price: ₹46,999
+Best Use Case: Rough usage
+
+209.
+Name: Asus ROG Phone 6
+Category: Gaming Smartphone
+Key Features: Gaming cooling
+Price: ₹71,999
+Best Use Case: Hardcore gamers
+
+210.
+Name: Sony Xperia 5 IV
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹89,999
+Best Use Case: Photography enthusiasts
+
+--- CARS ---
+
+211.
+Name: Maruti Swift
+Category: Hatchback
+Key Features: Fuel efficient
+Price: ₹7,50,000
+Best Use Case: City driving
+
+212.
+Name: Maruti WagonR
+Category: Hatchback
+Key Features: Spacious cabin
+Price: ₹6,50,000
+Best Use Case: Family commuting
+
+213.
+Name: Hyundai i20
+Category: Hatchback
+Key Features: Premium interiors
+Price: ₹11,00,000
+Best Use Case: Premium hatchback buyers
+
+214.
+Name: Hyundai Exter
+Category: Micro SUV
+Key Features: High ground clearance
+Price: ₹8,00,000
+Best Use Case: Urban SUV feel
+
+215.
+Name: Tata Altroz
+Category: Hatchback
+Key Features: 5-star safety
+Price: ₹9,50,000
+Best Use Case: Safety-first users
+
+216.
+Name: Tata Nexon
+Category: Compact SUV
+Key Features: Strong build
+Price: ₹14,50,000
+Best Use Case: Family SUV
+
+217.
+Name: Kia Sonet
+Category: Compact SUV
+Key Features: Feature-rich
+Price: ₹13,00,000
+Best Use Case: Tech-savvy buyers
+
+218.
+Name: Kia Seltos
+Category: SUV
+Key Features: Premium styling
+Price: ₹19,00,000
+Best Use Case: Style and comfort
+
+219.
+Name: Hyundai Creta
+Category: SUV
+Key Features: Comfort and resale
+Price: ₹18,00,000
+Best Use Case: Long-term ownership
+
+220.
+Name: Toyota Fortuner
+Category: SUV
+Key Features: Reliability
+Price: ₹45,00,000
+Best Use Case: Long-distance travel
+
+221.
+Name: Toyota Innova Crysta
+Category: MPV
+Key Features: Spacious seating
+Price: ₹25,00,000
+Best Use Case: Large families
+
+222.
+Name: Mahindra XUV300
+Category: Compact SUV
+Key Features: Safety rating
+Price: ₹12,50,000
+Best Use Case: Urban safety
+
+223.
+Name: Mahindra XUV700
+Category: SUV
+Key Features: ADAS features
+Price: ₹28,00,000
+Best Use Case: Tech-loaded SUV
+
+224.
+Name: Renault Kwid
+Category: Hatchback
+Key Features: Budget pricing
+Price: ₹5,00,000
+Best Use Case: Entry buyers
+
+225.
+Name: Skoda Slavia
+Category: Sedan
+Key Features: Turbo petrol
+Price: ₹17,50,000
+Best Use Case: Driving enthusiasts
+
+226.
+Name: Volkswagen Taigun
+Category: SUV
+Key Features: German handling
+Price: ₹16,50,000
+Best Use Case: Performance SUV
+
+227.
+Name: Honda City
+Category: Sedan
+Key Features: Comfort ride
+Price: ₹16,00,000
+Best Use Case: City commuting
+
+228.
+Name: MG Hector
+Category: SUV
+Key Features: Large infotainment
+Price: ₹21,00,000
+Best Use Case: Feature lovers
+
+229.
+Name: MG Comet EV
+Category: Electric Car
+Key Features: Compact EV
+Price: ₹8,00,000
+Best Use Case: City EV travel
+
+230.
+Name: Tata Tiago EV
+Category: Electric Hatchback
+Key Features: Affordable EV
+Price: ₹9,00,000
+Best Use Case: Entry EV users
+
+--- TWO-WHEELERS ---
+
+231.
+Name: Hero HF Deluxe
+Category: Motorcycle
+Key Features: Mileage focused
+Price: ₹65,000
+Best Use Case: Daily commuting
+
+232.
+Name: Bajaj Pulsar 150
+Category: Motorcycle
+Key Features: Sporty commuter
+Price: ₹1,10,000
+Best Use Case: Youth riders
+
+233.
+Name: TVS Apache RTR 160
+Category: Motorcycle
+Key Features: Racing DNA
+Price: ₹1,20,000
+Best Use Case: Enthusiasts
+
+234.
+Name: Honda Hornet 2.0
+Category: Motorcycle
+Key Features: Refined engine
+Price: ₹1,35,000
+Best Use Case: Daily + sporty ride
+
+235.
+Name: Royal Enfield Classic 350
+Category: Motorcycle
+Key Features: Retro styling
+Price: ₹1,95,000
+Best Use Case: Leisure rides
+
+236.
+Name: Royal Enfield Meteor 350
+Category: Cruiser Bike
+Key Features: Touring comfort
+Price: ₹2,05,000
+Best Use Case: Highway touring
+
+237.
+Name: Jawa 42
+Category: Motorcycle
+Key Features: Modern retro
+Price: ₹1,85,000
+Best Use Case: Stylish rides
+
+238.
+Name: Yamaha R15 V4
+Category: Sports Bike
+Key Features: Track design
+Price: ₹1,80,000
+Best Use Case: Entry sport riding
+
+239.
+Name: KTM Duke 250
+Category: Naked Bike
+Key Features: Aggressive performance
+Price: ₹2,35,000
+Best Use Case: Performance riders
+
+240.
+Name: Suzuki Gixxer SF
+Category: Sports Bike
+Key Features: Refined engine
+Price: ₹1,70,000
+Best Use Case: Daily sporty commute
+
+241.
+Name: Samsung Galaxy S23
+Category: Smartphone
+Key Features: Snapdragon 8 Gen 2, AMOLED
+Price: ₹74,999
+Best Use Case: Premium Android experience
+
+242.
+Name: Samsung Galaxy S23 Plus
+Category: Smartphone
+Key Features: Large display, flagship camera
+Price: ₹94,999
+Best Use Case: Power users
+
+243.
+Name: Samsung Galaxy S23 Ultra
+Category: Smartphone
+Key Features: 200MP camera, S-Pen
+Price: ₹1,24,999
+Best Use Case: Photography and productivity
+
+244.
+Name: Samsung Galaxy A15
+Category: Smartphone
+Key Features: Budget AMOLED
+Price: ₹13,999
+Best Use Case: Entry-level users
+
+245.
+Name: Samsung Galaxy M34
+Category: Smartphone
+Key Features: Large battery
+Price: ₹18,999
+Best Use Case: Long battery usage
+
+246.
+Name: Apple iPhone 14
+Category: Smartphone
+Key Features: A15 chip, safety features
+Price: ₹79,900
+Best Use Case: Stable premium phone
+
+247.
+Name: Apple iPhone 14 Plus
+Category: Smartphone
+Key Features: Big display, long battery
+Price: ₹89,900
+Best Use Case: Media consumption
+
+248.
+Name: Apple iPhone 14 Pro
+Category: Smartphone
+Key Features: Dynamic Island, Pro camera
+Price: ₹1,29,900
+Best Use Case: Content creators
+
+249.
+Name: Apple iPhone 14 Pro Max
+Category: Smartphone
+Key Features: Best battery iPhone
+Price: ₹1,39,900
+Best Use Case: Heavy users
+
+250.
+Name: Apple iPhone SE 2022
+Category: Smartphone
+Key Features: Compact, A15 chip
+Price: ₹49,900
+Best Use Case: Small phone lovers
+
+251.
+Name: OnePlus 12
+Category: Smartphone
+Key Features: Flagship Snapdragon
+Price: ₹64,999
+Best Use Case: High performance Android
+
+252.
+Name: OnePlus Nord 3
+Category: Smartphone
+Key Features: Premium midrange
+Price: ₹33,999
+Best Use Case: Balanced users
+
+253.
+Name: Xiaomi 13
+Category: Smartphone
+Key Features: Leica camera
+Price: ₹59,999
+Best Use Case: Photography lovers
+
+254.
+Name: Xiaomi 13 Pro
+Category: Smartphone
+Key Features: Flagship camera system
+Price: ₹79,999
+Best Use Case: Camera enthusiasts
+
+255.
+Name: Redmi 13C
+Category: Smartphone
+Key Features: Budget pricing
+Price: ₹9,999
+Best Use Case: First smartphone users
+
+256.
+Name: Redmi Note 13 Pro
+Category: Smartphone
+Key Features: AMOLED, fast charging
+Price: ₹25,999
+Best Use Case: Midrange buyers
+
+257.
+Name: Vivo Y200
+Category: Smartphone
+Key Features: Stylish design
+Price: ₹21,999
+Best Use Case: Everyday usage
+
+258.
+Name: Vivo X90
+Category: Smartphone
+Key Features: Zeiss camera
+Price: ₹63,999
+Best Use Case: Camera-focused users
+
+259.
+Name: Oppo F23
+Category: Smartphone
+Key Features: Slim build
+Price: ₹24,999
+Best Use Case: Daily usage
+
+260.
+Name: Oppo Find X6 Pro
+Category: Smartphone
+Key Features: Flagship imaging
+Price: ₹89,999
+Best Use Case: Premium photography
+
+--- CARS ---
+
+261.
+Name: Maruti Baleno
+Category: Hatchback
+Key Features: Fuel efficiency
+Price: ₹8,50,000
+Best Use Case: City commuting
+
+262.
+Name: Maruti Brezza
+Category: Compact SUV
+Key Features: Reliable engine
+Price: ₹12,00,000
+Best Use Case: Family SUV
+
+263.
+Name: Hyundai Verna
+Category: Sedan
+Key Features: Turbo engine
+Price: ₹15,50,000
+Best Use Case: Comfortable long drives
+
+264.
+Name: Hyundai Tucson
+Category: SUV
+Key Features: Premium build
+Price: ₹29,00,000
+Best Use Case: Luxury SUV buyers
+
+265.
+Name: Tata Punch
+Category: Micro SUV
+Key Features: High safety rating
+Price: ₹7,50,000
+Best Use Case: Urban driving
+
+266.
+Name: Tata Harrier
+Category: SUV
+Key Features: Strong build
+Price: ₹22,00,000
+Best Use Case: Highway cruising
+
+267.
+Name: Tata Safari
+Category: SUV
+Key Features: 7-seater
+Price: ₹25,00,000
+Best Use Case: Large families
+
+268.
+Name: Mahindra Scorpio N
+Category: SUV
+Key Features: Off-road capability
+Price: ₹24,00,000
+Best Use Case: Adventure driving
+
+269.
+Name: Mahindra Thar
+Category: SUV
+Key Features: 4x4 system
+Price: ₹16,50,000
+Best Use Case: Off-roading
+
+270.
+Name: Toyota Urban Cruiser Hyryder
+Category: SUV
+Key Features: Hybrid tech
+Price: ₹18,50,000
+Best Use Case: Fuel-efficient SUV
+
+271.
+Name: Honda Amaze
+Category: Sedan
+Key Features: Smooth engine
+Price: ₹9,50,000
+Best Use Case: Daily city driving
+
+272.
+Name: Skoda Kushaq
+Category: SUV
+Key Features: Turbo petrol
+Price: ₹17,00,000
+Best Use Case: Driving enthusiasts
+
+273.
+Name: Volkswagen Virtus
+Category: Sedan
+Key Features: German handling
+Price: ₹17,50,000
+Best Use Case: Highway performance
+
+274.
+Name: MG ZS EV
+Category: Electric SUV
+Key Features: Long range
+Price: ₹24,00,000
+Best Use Case: Electric mobility
+
+275.
+Name: BYD Atto 3
+Category: Electric SUV
+Key Features: Premium EV
+Price: ₹34,00,000
+Best Use Case: Luxury EV buyers
+
+--- TWO-WHEELERS ---
+
+276.
+Name: Hero Splendor Plus
+Category: Motorcycle
+Key Features: Excellent mileage
+Price: ₹75,000
+Best Use Case: Daily commute
+
+277.
+Name: Hero Xpulse 200
+Category: Adventure Bike
+Key Features: Off-road ready
+Price: ₹1,45,000
+Best Use Case: Adventure touring
+
+278.
+Name: Bajaj Dominar 400
+Category: Sports Tourer
+Key Features: Powerful engine
+Price: ₹2,30,000
+Best Use Case: Long-distance rides
+
+279.
+Name: Bajaj Platina
+Category: Motorcycle
+Key Features: High mileage
+Price: ₹70,000
+Best Use Case: Budget commuting
+
+280.
+Name: TVS Raider 125
+Category: Motorcycle
+Key Features: Sporty commuter
+Price: ₹95,000
+Best Use Case: Young riders
+
+281.
+Name: TVS Jupiter
+Category: Scooter
+Key Features: Comfortable ride
+Price: ₹80,000
+Best Use Case: Daily errands
+
+282.
+Name: Honda Activa 6G
+Category: Scooter
+Key Features: Reliable engine
+Price: ₹82,000
+Best Use Case: Family scooter
+
+283.
+Name: Suzuki Access 125
+Category: Scooter
+Key Features: Refined engine
+Price: ₹85,000
+Best Use Case: Comfortable commuting
+
+284.
+Name: Yamaha Fascino 125
+Category: Scooter
+Key Features: Stylish design
+Price: ₹90,000
+Best Use Case: Urban riders
+
+285.
+Name: Ola S1 Pro
+Category: Electric Scooter
+Key Features: Fast acceleration
+Price: ₹1,30,000
+Best Use Case: Electric commuting
+
+286.
+Name: Ather 450X
+Category: Electric Scooter
+Key Features: Fast charging, smart dashboard
+Price: ₹1,45,000
+Best Use Case: Smart city commuting
+
+287.
+Name: TVS iQube
+Category: Electric Scooter
+Key Features: Silent motor, good range
+Price: ₹1,25,000
+Best Use Case: Daily city travel
+
+288.
+Name: Bajaj Chetak EV
+Category: Electric Scooter
+Key Features: Metal body, premium build
+Price: ₹1,40,000
+Best Use Case: Stylish electric commute
+
+289.
+Name: Revolt RV400
+Category: Electric Motorcycle
+Key Features: AI connectivity
+Price: ₹1,50,000
+Best Use Case: Electric bike enthusiasts
+
+290.
+Name: Yamaha MT-15
+Category: Motorcycle
+Key Features: Naked street design
+Price: ₹1,70,000
+Best Use Case: Sporty daily rides
+
+291.
+Name: BMW G310R
+Category: Premium Motorcycle
+Key Features: BMW engineering
+Price: ₹2,85,000
+Best Use Case: Entry-level premium bike
+
+292.
+Name: Kawasaki Ninja 300
+Category: Sports Bike
+Key Features: Parallel twin engine
+Price: ₹3,40,000
+Best Use Case: Beginner superbike riders
+
+293.
+Name: KTM RC 390
+Category: Sports Bike
+Key Features: Track-focused design
+Price: ₹3,20,000
+Best Use Case: Track day usage
+
+294.
+Name: Suzuki Hayabusa
+Category: Superbike
+Key Features: Legendary performance
+Price: ₹16,40,000
+Best Use Case: High-speed touring
+
+295.
+Name: Ducati Monster
+Category: Premium Motorcycle
+Key Features: Italian styling
+Price: ₹12,00,000
+Best Use Case: Premium street riding
+
+--- SMARTPHONES CONTINUED ---
+
+296.
+Name: Google Pixel 7
+Category: Smartphone
+Key Features: Tensor G2, clean Android
+Price: ₹59,999
+Best Use Case: Photography and AI features
+
+297.
+Name: Google Pixel 7 Pro
+Category: Smartphone
+Key Features: Telephoto camera
+Price: ₹84,999
+Best Use Case: Premium camera usage
+
+298.
+Name: Motorola G84
+Category: Smartphone
+Key Features: Stock Android
+Price: ₹19,999
+Best Use Case: Clean UI lovers
+
+299.
+Name: Motorola Edge 50 Pro
+Category: Smartphone
+Key Features: Curved AMOLED
+Price: ₹45,999
+Best Use Case: Premium Android users
+
+300.
+Name: Infinix Zero 30
+Category: Smartphone
+Key Features: 50MP selfie camera
+Price: ₹23,999
+Best Use Case: Content creators
+
+301.
+Name: Tecno Camon 20 Pro
+Category: Smartphone
+Key Features: Camera-centric design
+Price: ₹19,999
+Best Use Case: Photography on budget
+
+302.
+Name: Lava Agni 2
+Category: Smartphone
+Key Features: Indian brand, 5G
+Price: ₹21,999
+Best Use Case: Budget 5G users
+
+303.
+Name: Micromax In Note 2
+Category: Smartphone
+Key Features: Stock Android
+Price: ₹14,999
+Best Use Case: Simple daily usage
+
+304.
+Name: Samsung Galaxy Z Flip 5
+Category: Foldable Smartphone
+Key Features: Foldable AMOLED
+Price: ₹99,999
+Best Use Case: Premium compact phone
+
+305.
+Name: Samsung Galaxy Z Fold 5
+Category: Foldable Smartphone
+Key Features: Tablet-like experience
+Price: ₹1,54,999
+Best Use Case: Multitasking professionals
+
+306.
+Name: Asus Zenfone 10
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹69,999
+Best Use Case: One-hand premium phone
+
+307.
+Name: Sony Xperia 1 V
+Category: Smartphone
+Key Features: Professional camera controls
+Price: ₹1,19,999
+Best Use Case: Videography professionals
+
+308.
+Name: Nothing Phone (2)
+Category: Smartphone
+Key Features: Glyph interface
+Price: ₹44,999
+Best Use Case: Design-focused users
+
+309.
+Name: Nothing Phone (1)
+Category: Smartphone
+Key Features: Clean UI
+Price: ₹32,999
+Best Use Case: Minimalist users
+
+310.
+Name: Fairphone 5
+Category: Smartphone
+Key Features: Repairable design
+Price: ₹64,999
+Best Use Case: Sustainable tech users
+
+--- VEHICLES CONTINUED ---
+
+311.
+Name: Tesla Model 3
+Category: Electric Sedan
+Key Features: Autopilot
+Price: ₹60,00,000
+Best Use Case: Premium EV buyers
+
+312.
+Name: Tesla Model Y
+Category: Electric SUV
+Key Features: Long range
+Price: ₹65,00,000
+Best Use Case: Family EV
+
+313.
+Name: BMW X1
+Category: Luxury SUV
+Key Features: Premium interiors
+Price: ₹48,00,000
+Best Use Case: Luxury commuting
+
+314.
+Name: BMW 3 Series
+Category: Luxury Sedan
+Key Features: Sporty handling
+Price: ₹52,00,000
+Best Use Case: Driving enthusiasts
+
+315.
+Name: Mercedes-Benz C-Class
+Category: Luxury Sedan
+Key Features: Comfort and prestige
+Price: ₹59,00,000
+Best Use Case: Executive users
+
+316.
+Name: Mercedes-Benz GLA
+Category: Luxury SUV
+Key Features: Compact luxury
+Price: ₹50,00,000
+Best Use Case: Urban luxury SUV
+
+317.
+Name: Audi A4
+Category: Luxury Sedan
+Key Features: Quattro handling
+Price: ₹54,00,000
+Best Use Case: Premium sedan lovers
+
+318.
+Name: Audi Q3
+Category: Luxury SUV
+Key Features: Tech-loaded cabin
+Price: ₹49,00,000
+Best Use Case: Small luxury SUV
+
+319.
+Name: Volvo XC40
+Category: Luxury SUV
+Key Features: Top safety
+Price: ₹56,00,000
+Best Use Case: Safety-focused luxury
+
+320.
+Name: Volvo XC60
+Category: Luxury SUV
+Key Features: Hybrid option
+Price: ₹68,00,000
+Best Use Case: Comfortable family SUV
+
+--- COMMERCIAL & UTILITY ---
+
+321.
+Name: Tata Ace
+Category: Commercial Vehicle
+Key Features: Compact cargo
+Price: ₹5,50,000
+Best Use Case: Small business transport
+
+322.
+Name: Mahindra Bolero Pickup
+Category: Pickup Truck
+Key Features: Strong load capacity
+Price: ₹8,50,000
+Best Use Case: Rural transport
+
+323.
+Name: Ashok Leyland Dost
+Category: Light Truck
+Key Features: Diesel efficiency
+Price: ₹9,00,000
+Best Use Case: Goods delivery
+
+324.
+Name: Eicher Pro 2049
+Category: Truck
+Key Features: Heavy-duty build
+Price: ₹12,50,000
+Best Use Case: Commercial logistics
+
+325.
+Name: Force Traveller
+Category: Passenger Van
+Key Features: High seating capacity
+Price: ₹15,00,000
+Best Use Case: Tourist transport
+
+326.
+Name: Mahindra Treo
+Category: Electric Auto
+Key Features: Zero emissions
+Price: ₹3,50,000
+Best Use Case: Last-mile transport
+
+327.
+Name: Tata Winger Cargo
+Category: Cargo Van
+Key Features: Large storage
+Price: ₹13,00,000
+Best Use Case: Logistics delivery
+
+328.
+Name: Isuzu D-Max V-Cross
+Category: Pickup Truck
+Key Features: 4x4 capability
+Price: ₹26,00,000
+Best Use Case: Off-road utility
+
+329.
+Name: Toyota Hilux
+Category: Pickup Truck
+Key Features: Rugged build
+Price: ₹40,00,000
+Best Use Case: Heavy-duty usage
+
+330.
+Name: Force Gurkha
+Category: Off-road SUV
+Key Features: Differential locks
+Price: ₹16,00,000
+Best Use Case: Extreme off-roading
+
+--- SMARTPHONES ---
+
+331.
+Name: Samsung Galaxy F54
+Category: Smartphone
+Key Features: Large battery, OIS camera
+Price: ₹29,999
+Best Use Case: Battery-focused users
+
+332.
+Name: Samsung Galaxy M14
+Category: Smartphone
+Key Features: Budget 5G
+Price: ₹13,999
+Best Use Case: Entry-level 5G
+
+333.
+Name: Samsung Galaxy A05s
+Category: Smartphone
+Key Features: Large display
+Price: ₹11,999
+Best Use Case: Basic usage
+
+334.
+Name: Apple iPhone 15
+Category: Smartphone
+Key Features: USB-C, A16 chip
+Price: ₹79,900
+Best Use Case: Latest iOS users
+
+335.
+Name: Apple iPhone 15 Plus
+Category: Smartphone
+Key Features: Big display
+Price: ₹89,900
+Best Use Case: Media consumption
+
+336.
+Name: Apple iPhone 15 Pro
+Category: Smartphone
+Key Features: Titanium body
+Price: ₹1,34,900
+Best Use Case: Power professionals
+
+337.
+Name: Apple iPhone 15 Pro Max
+Category: Smartphone
+Key Features: Best iPhone camera
+Price: ₹1,59,900
+Best Use Case: Premium creators
+
+338.
+Name: OnePlus Nord CE 3 Lite
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹19,999
+Best Use Case: Budget OnePlus users
+
+339.
+Name: OnePlus Open
+Category: Foldable Smartphone
+Key Features: Foldable multitasking
+Price: ₹1,39,999
+Best Use Case: Productivity users
+
+340.
+Name: Xiaomi Redmi A2
+Category: Smartphone
+Key Features: Ultra-budget
+Price: ₹7,499
+Best Use Case: First-time users
+
+341.
+Name: Xiaomi Redmi 12
+Category: Smartphone
+Key Features: Glass back
+Price: ₹11,999
+Best Use Case: Stylish budget buyers
+
+342.
+Name: Poco X6 Pro
+Category: Smartphone
+Key Features: Gaming chipset
+Price: ₹26,999
+Best Use Case: Performance gaming
+
+343.
+Name: Poco F5
+Category: Smartphone
+Key Features: Snapdragon processor
+Price: ₹29,999
+Best Use Case: Power users
+
+344.
+Name: iQOO Z9
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹19,999
+Best Use Case: Midrange buyers
+
+345.
+Name: iQOO 12
+Category: Smartphone
+Key Features: Flagship performance
+Price: ₹52,999
+Best Use Case: Hardcore users
+
+346.
+Name: Vivo T2
+Category: Smartphone
+Key Features: Slim design
+Price: ₹18,999
+Best Use Case: Daily usage
+
+347.
+Name: Vivo X100 Pro
+Category: Smartphone
+Key Features: Flagship camera
+Price: ₹89,999
+Best Use Case: Photography pros
+
+348.
+Name: Oppo A78
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹17,999
+Best Use Case: Budget AMOLED buyers
+
+349.
+Name: Oppo Find N3 Flip
+Category: Foldable Smartphone
+Key Features: Compact foldable
+Price: ₹94,999
+Best Use Case: Style + productivity
+
+350.
+Name: Realme C55
+Category: Smartphone
+Key Features: Budget camera
+Price: ₹10,999
+Best Use Case: Students
+
+351.
+Name: Realme GT 5
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹39,999
+Best Use Case: Performance lovers
+
+352.
+Name: Lava Blaze 2
+Category: Smartphone
+Key Features: Clean Android
+Price: ₹9,499
+Best Use Case: Entry Android
+
+353.
+Name: Infinix Hot 30
+Category: Smartphone
+Key Features: Gaming budget phone
+Price: ₹11,499
+Best Use Case: Casual gaming
+
+354.
+Name: Tecno Spark 20
+Category: Smartphone
+Key Features: Big battery
+Price: ₹9,999
+Best Use Case: Long usage
+
+355.
+Name: Asus ROG Phone 7
+Category: Gaming Smartphone
+Key Features: Advanced cooling
+Price: ₹74,999
+Best Use Case: Hardcore gaming
+
+356.
+Name: Lenovo Legion Phone Duel
+Category: Gaming Smartphone
+Key Features: Shoulder triggers
+Price: ₹69,999
+Best Use Case: Competitive gaming
+
+--- TWO-WHEELERS ---
+
+357.
+Name: Honda Shine 125
+Category: Motorcycle
+Key Features: Smooth engine
+Price: ₹80,000
+Best Use Case: Daily commuting
+
+358.
+Name: Bajaj CT 110
+Category: Motorcycle
+Key Features: Rugged commuter
+Price: ₹70,000
+Best Use Case: Rural roads
+
+359.
+Name: TVS Sport
+Category: Motorcycle
+Key Features: High mileage
+Price: ₹68,000
+Best Use Case: Budget commuting
+
+360.
+Name: Yamaha FZ-S
+Category: Motorcycle
+Key Features: Sporty styling
+Price: ₹1,25,000
+Best Use Case: City rides
+
+361.
+Name: KTM Duke 390
+Category: Naked Bike
+Key Features: Performance-focused
+Price: ₹3,10,000
+Best Use Case: Enthusiasts
+
+362.
+Name: BMW G310GS
+Category: Adventure Bike
+Key Features: Touring comfort
+Price: ₹3,20,000
+Best Use Case: Touring riders
+
+363.
+Name: Royal Enfield Himalayan
+Category: Adventure Bike
+Key Features: Rugged suspension
+Price: ₹2,20,000
+Best Use Case: Mountain rides
+
+364.
+Name: Suzuki V-Strom SX
+Category: Adventure Bike
+Key Features: Comfortable touring
+Price: ₹2,15,000
+Best Use Case: Highway touring
+
+365.
+Name: Harley-Davidson X440
+Category: Cruiser Bike
+Key Features: Strong torque
+Price: ₹2,70,000
+Best Use Case: Relaxed cruising
+
+366.
+Name: Jawa Perak
+Category: Bobber Motorcycle
+Key Features: Unique styling
+Price: ₹2,15,000
+Best Use Case: Style riders
+
+--- CARS CONTINUED ---
+
+367.
+Name: Citroen C3
+Category: Hatchback
+Key Features: Comfortable suspension
+Price: ₹6,50,000
+Best Use Case: City driving
+
+368.
+Name: Citroen C3 Aircross
+Category: SUV
+Key Features: Spacious cabin
+Price: ₹11,00,000
+Best Use Case: Family trips
+
+369.
+Name: Jeep Compass
+Category: SUV
+Key Features: Premium build
+Price: ₹25,00,000
+Best Use Case: Highway comfort
+
+370.
+Name: Jeep Meridian
+Category: SUV
+Key Features: 7-seater luxury
+Price: ₹35,00,000
+Best Use Case: Premium family SUV
+
+371.
+Name: Nissan Magnite
+Category: Compact SUV
+Key Features: Budget SUV
+Price: ₹7,00,000
+Best Use Case: Entry SUV buyers
+
+372.
+Name: Nissan Kicks
+Category: SUV
+Key Features: Turbo petrol
+Price: ₹13,00,000
+Best Use Case: Performance SUV
+
+373.
+Name: Toyota Camry
+Category: Hybrid Sedan
+Key Features: Hybrid efficiency
+Price: ₹48,00,000
+Best Use Case: Luxury commuting
+
+374.
+Name: Honda Elevate
+Category: SUV
+Key Features: Spacious cabin
+Price: ₹15,00,000
+Best Use Case: Family SUV
+
+375.
+Name: Hyundai Alcazar
+Category: SUV
+Key Features: 7-seater comfort
+Price: ₹21,00,000
+Best Use Case: Long family trips
+
+376.
+Name: Skoda Superb
+Category: Luxury Sedan
+Key Features: Premium comfort
+Price: ₹39,00,000
+Best Use Case: Executive travel
+
+377.
+Name: Volkswagen Tiguan
+Category: SUV
+Key Features: German stability
+Price: ₹35,00,000
+Best Use Case: Highway cruising
+
+378.
+Name: BYD Seal
+Category: Electric Sedan
+Key Features: Long range EV
+Price: ₹45,00,000
+Best Use Case: Premium electric driving
+
+379.
+Name: Tata Curvv EV
+Category: Electric SUV
+Key Features: Coupe design
+Price: ₹20,00,000
+Best Use Case: Future EV buyers
+
+380.
+Name: Mahindra XUV.e8
+Category: Electric SUV
+Key Features: Born-electric platform
+Price: ₹25,00,000
+Best Use Case: Modern EV users
+
+381.
+Name: Hyundai Aura
+Category: Sedan
+Key Features: Compact design, mileage
+Price: ₹7,50,000
+Best Use Case: City commuting
+
+382.
+Name: Hyundai Grand i10 Nios
+Category: Hatchback
+Key Features: Smooth engine
+Price: ₹6,80,000
+Best Use Case: Daily urban use
+
+383.
+Name: Maruti Celerio
+Category: Hatchback
+Key Features: Excellent mileage
+Price: ₹6,00,000
+Best Use Case: Budget city driving
+
+384.
+Name: Maruti Ignis
+Category: Hatchback
+Key Features: Compact SUV look
+Price: ₹6,50,000
+Best Use Case: Youth buyers
+
+385.
+Name: Maruti Ertiga
+Category: MPV
+Key Features: 7-seater practicality
+Price: ₹10,50,000
+Best Use Case: Family travel
+
+386.
+Name: Maruti XL6
+Category: MPV
+Key Features: Captain seats
+Price: ₹12,00,000
+Best Use Case: Premium family usage
+
+387.
+Name: Toyota Glanza
+Category: Hatchback
+Key Features: Reliability
+Price: ₹8,00,000
+Best Use Case: Long-term ownership
+
+388.
+Name: Toyota Rumion
+Category: MPV
+Key Features: Spacious interior
+Price: ₹10,50,000
+Best Use Case: Family transport
+
+389.
+Name: Tata Tigor
+Category: Sedan
+Key Features: Safety focused
+Price: ₹7,80,000
+Best Use Case: Safe commuting
+
+390.
+Name: Tata Tigor EV
+Category: Electric Sedan
+Key Features: Affordable EV
+Price: ₹12,50,000
+Best Use Case: City electric driving
+
+391.
+Name: Tata Tiago NRG
+Category: Hatchback
+Key Features: Rugged styling
+Price: ₹7,20,000
+Best Use Case: Urban + rough roads
+
+392.
+Name: Honda WR-V
+Category: Crossover
+Key Features: Reliable engine
+Price: ₹9,50,000
+Best Use Case: Daily mixed driving
+
+393.
+Name: Honda Jazz
+Category: Hatchback
+Key Features: Spacious cabin
+Price: ₹9,00,000
+Best Use Case: Practical city car
+
+394.
+Name: Skoda Rapid
+Category: Sedan
+Key Features: Solid build
+Price: ₹13,00,000
+Best Use Case: Highway driving
+
+395.
+Name: Volkswagen Polo
+Category: Hatchback
+Key Features: German handling
+Price: ₹10,00,000
+Best Use Case: Enthusiast drivers
+
+--- SMARTPHONES ---
+
+396.
+Name: Samsung Galaxy S22
+Category: Smartphone
+Key Features: Flagship compact
+Price: ₹62,999
+Best Use Case: Premium Android users
+
+397.
+Name: Samsung Galaxy A73
+Category: Smartphone
+Key Features: Large AMOLED
+Price: ₹39,999
+Best Use Case: Media consumption
+
+398.
+Name: Samsung Galaxy M54
+Category: Smartphone
+Key Features: Big battery
+Price: ₹27,999
+Best Use Case: Battery-focused users
+
+399.
+Name: Apple iPhone 11
+Category: Smartphone
+Key Features: Stable performance
+Price: ₹49,900
+Best Use Case: Entry Apple users
+
+400.
+Name: Apple iPhone XR
+Category: Smartphone
+Key Features: Large display
+Price: ₹47,900
+Best Use Case: iOS beginners
+
+401.
+Name: OnePlus 10 Pro
+Category: Smartphone
+Key Features: Flagship camera
+Price: ₹66,999
+Best Use Case: Power users
+
+402.
+Name: OnePlus 9RT
+Category: Smartphone
+Key Features: Smooth UI
+Price: ₹42,999
+Best Use Case: Balanced performance
+
+403.
+Name: Xiaomi Mi 11 Ultra
+Category: Smartphone
+Key Features: Flagship camera
+Price: ₹69,999
+Best Use Case: Camera enthusiasts
+
+404.
+Name: Redmi K50i
+Category: Smartphone
+Key Features: Performance chipset
+Price: ₹25,999
+Best Use Case: Gaming users
+
+405.
+Name: Poco M6 Pro
+Category: Smartphone
+Key Features: Budget AMOLED
+Price: ₹13,999
+Best Use Case: Budget buyers
+
+406.
+Name: Vivo S1 Pro
+Category: Smartphone
+Key Features: Stylish design
+Price: ₹19,999
+Best Use Case: Fashion-focused users
+
+407.
+Name: Vivo Y73
+Category: Smartphone
+Key Features: Slim form factor
+Price: ₹20,999
+Best Use Case: Daily usage
+
+408.
+Name: Oppo K10
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹16,999
+Best Use Case: Students
+
+409.
+Name: Oppo A17
+Category: Smartphone
+Key Features: Budget friendly
+Price: ₹12,999
+Best Use Case: First smartphone
+
+410.
+Name: Realme 11 Pro
+Category: Smartphone
+Key Features: Curved AMOLED
+Price: ₹27,999
+Best Use Case: Stylish midrange
+
+411.
+Name: Realme Narzo N55
+Category: Smartphone
+Key Features: Budget performance
+Price: ₹10,999
+Best Use Case: Entry-level users
+
+412.
+Name: iQOO Z7 Pro
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹23,999
+Best Use Case: Midrange buyers
+
+413.
+Name: Motorola G54
+Category: Smartphone
+Key Features: Stock Android
+Price: ₹15,999
+Best Use Case: Clean UI lovers
+
+414.
+Name: Motorola Edge 30
+Category: Smartphone
+Key Features: Slim flagship
+Price: ₹27,999
+Best Use Case: Lightweight phone users
+
+415.
+Name: Asus Zenfone 9
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹61,999
+Best Use Case: One-hand usage
+
+--- TWO-WHEELERS ---
+
+416.
+Name: Hero Glamour
+Category: Motorcycle
+Key Features: Smooth commuter
+Price: ₹82,000
+Best Use Case: Daily commuting
+
+417.
+Name: Hero Passion Pro
+Category: Motorcycle
+Key Features: Mileage oriented
+Price: ₹75,000
+Best Use Case: Budget commute
+
+418.
+Name: Bajaj Avenger 160
+Category: Cruiser Bike
+Key Features: Relaxed riding
+Price: ₹1,15,000
+Best Use Case: City cruising
+
+419.
+Name: Bajaj Avenger 220
+Category: Cruiser Bike
+Key Features: Highway comfort
+Price: ₹1,45,000
+Best Use Case: Long rides
+
+420.
+Name: TVS Ronin
+Category: Motorcycle
+Key Features: Neo-retro design
+Price: ₹1,50,000
+Best Use Case: Urban touring
+
+421.
+Name: Yamaha RX100 (Re-launch)
+Category: Motorcycle
+Key Features: Lightweight engine
+Price: ₹1,25,000
+Best Use Case: Retro lovers
+
+422.
+Name: Yamaha Aerox 155
+Category: Scooter
+Key Features: Performance scooter
+Price: ₹1,45,000
+Best Use Case: Sporty commuting
+
+423.
+Name: Honda Dio
+Category: Scooter
+Key Features: Youth design
+Price: ₹78,000
+Best Use Case: College students
+
+424.
+Name: Suzuki Burgman Street
+Category: Maxi Scooter
+Key Features: Comfortable seating
+Price: ₹1,15,000
+Best Use Case: Long city rides
+
+425.
+Name: TVS Ntorq 125
+Category: Scooter
+Key Features: Sporty performance
+Price: ₹95,000
+Best Use Case: Young riders
+
+--- ELECTRIC & FUTURE ---
+
+426.
+Name: Simple One
+Category: Electric Scooter
+Key Features: Long range
+Price: ₹1,45,000
+Best Use Case: EV commuting
+
+427.
+Name: Okinawa Praise Pro
+Category: Electric Scooter
+Key Features: Affordable EV
+Price: ₹1,20,000
+Best Use Case: City commute
+
+428.
+Name: Ampere Magnus
+Category: Electric Scooter
+Key Features: Budget EV
+Price: ₹1,10,000
+Best Use Case: Entry EV buyers
+
+429.
+Name: Tata Nexon EV Max
+Category: Electric SUV
+Key Features: Long range
+Price: ₹19,50,000
+Best Use Case: Family EV
+
+430.
+Name: Mahindra XUV400
+Category: Electric SUV
+Key Features: Strong performance
+Price: ₹18,00,000
+Best Use Case: Electric family car
+
+431.
+Name: MG4 EV
+Category: Electric Hatchback
+Key Features: Global EV platform
+Price: ₹20,00,000
+Best Use Case: Premium EV users
+
+432.
+Name: Hyundai Kona EV
+Category: Electric SUV
+Key Features: Proven EV
+Price: ₹23,00,000
+Best Use Case: Long-range EV
+
+433.
+Name: Kia EV6
+Category: Electric SUV
+Key Features: Fast charging
+Price: ₹60,00,000
+Best Use Case: Premium electric mobility
+
+434.
+Name: Audi Q8 e-tron
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹1,15,00,000
+Best Use Case: Luxury EV buyers
+
+435.
+Name: BMW i4
+Category: Electric Sedan
+Key Features: Sporty EV
+Price: ₹73,00,000
+Best Use Case: Performance EV
+
+--- SMARTPHONES CONTINUED ---
+
+436.
+Name: Google Pixel 8
+Category: Smartphone
+Key Features: AI camera
+Price: ₹75,999
+Best Use Case: Photography lovers
+
+437.
+Name: Google Pixel 8 Pro
+Category: Smartphone
+Key Features: Advanced AI
+Price: ₹1,06,999
+Best Use Case: Premium AI users
+
+438.
+Name: Nothing Phone (2a)
+Category: Smartphone
+Key Features: Clean UI
+Price: ₹23,999
+Best Use Case: Minimalist users
+
+439.
+Name: Lava Storm 5G
+Category: Smartphone
+Key Features: Indian brand
+Price: ₹13,499
+Best Use Case: Budget 5G
+
+440.
+Name: Infinix Note 30i
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹9,999
+Best Use Case: Budget AMOLED
+
+441.
+Name: Tecno Phantom V Fold
+Category: Foldable Smartphone
+Key Features: Large foldable
+Price: ₹88,999
+Best Use Case: Productivity users
+
+442.
+Name: Samsung Galaxy Z Fold 4
+Category: Foldable Smartphone
+Key Features: Multitasking
+Price: ₹1,49,999
+Best Use Case: Business users
+
+443.
+Name: Samsung Galaxy Z Flip 4
+Category: Foldable Smartphone
+Key Features: Compact foldable
+Price: ₹89,999
+Best Use Case: Style users
+
+444.
+Name: Asus ROG Phone 5
+Category: Gaming Smartphone
+Key Features: Gaming triggers
+Price: ₹49,999
+Best Use Case: Mobile gaming
+
+445.
+Name: Nubia Red Magic 8 Pro
+Category: Gaming Smartphone
+Key Features: Active cooling
+Price: ₹64,999
+Best Use Case: Hardcore gamers
+
+--- COMMERCIAL ---
+
+446.
+Name: Tata Ultra T7
+Category: Truck
+Key Features: Cargo capacity
+Price: ₹15,00,000
+Best Use Case: Logistics transport
+
+447.
+Name: BharatBenz 1217
+Category: Truck
+Key Features: Heavy-duty
+Price: ₹22,00,000
+Best Use Case: Industrial cargo
+
+448.
+Name: Eicher Pro 3015
+Category: Truck
+Key Features: Long haul
+Price: ₹25,00,000
+Best Use Case: Highway logistics
+
+449.
+Name: Ashok Leyland Partner
+Category: Light Truck
+Key Features: Reliable engine
+Price: ₹10,00,000
+Best Use Case: Small transport
+
+450.
+Name: Piaggio Ape E-City
+Category: Electric Auto
+Key Features: Zero emission
+Price: ₹3,00,000
+Best Use Case: Last-mile delivery
+
+451.
+Name: Mahindra Jeeto
+Category: Mini Truck
+Key Features: Compact cargo carrier
+Price: ₹4,80,000
+Best Use Case: Small business deliveries
+
+452.
+Name: Tata Intra V30
+Category: Pickup Truck
+Key Features: Strong payload
+Price: ₹7,90,000
+Best Use Case: Intra-city logistics
+
+453.
+Name: Isuzu S-Cab
+Category: Pickup Truck
+Key Features: Double cab utility
+Price: ₹12,50,000
+Best Use Case: Commercial + personal use
+
+454.
+Name: Force Citiline
+Category: Passenger Van
+Key Features: Comfortable seating
+Price: ₹16,00,000
+Best Use Case: Tourist transport
+
+455.
+Name: Ashok Leyland Bada Dost
+Category: Light Commercial Vehicle
+Key Features: High payload capacity
+Price: ₹10,00,000
+Best Use Case: Goods transportation
+
+--- SMARTPHONES ---
+
+456.
+Name: Samsung Galaxy S21
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹54,999
+Best Use Case: Premium Android users
+
+457.
+Name: Samsung Galaxy S21 Ultra
+Category: Smartphone
+Key Features: Advanced camera zoom
+Price: ₹1,05,999
+Best Use Case: Photography enthusiasts
+
+458.
+Name: Samsung Galaxy A25
+Category: Smartphone
+Key Features: Budget AMOLED
+Price: ₹16,999
+Best Use Case: Students
+
+459.
+Name: Apple iPhone 12 Mini
+Category: Smartphone
+Key Features: Compact OLED
+Price: ₹59,900
+Best Use Case: Small phone lovers
+
+460.
+Name: Apple iPhone XS
+Category: Smartphone
+Key Features: Premium build
+Price: ₹44,900
+Best Use Case: Entry premium iPhone
+
+461.
+Name: OnePlus 8T
+Category: Smartphone
+Key Features: 120Hz display
+Price: ₹42,999
+Best Use Case: Smooth performance users
+
+462.
+Name: OnePlus Nord N30
+Category: Smartphone
+Key Features: Budget Nord series
+Price: ₹21,999
+Best Use Case: Everyday users
+
+463.
+Name: Xiaomi 12 Lite
+Category: Smartphone
+Key Features: Slim lightweight design
+Price: ₹28,999
+Best Use Case: Style-focused users
+
+464.
+Name: Redmi Note 11
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹16,999
+Best Use Case: Budget multimedia
+
+465.
+Name: Poco C55
+Category: Smartphone
+Key Features: Large battery
+Price: ₹9,499
+Best Use Case: Entry-level users
+
+466.
+Name: iQOO Neo 6
+Category: Smartphone
+Key Features: Gaming performance
+Price: ₹29,999
+Best Use Case: Mobile gamers
+
+467.
+Name: Vivo Z1 Pro
+Category: Smartphone
+Key Features: Performance midrange
+Price: ₹17,999
+Best Use Case: Daily usage
+
+468.
+Name: Oppo Reno 7
+Category: Smartphone
+Key Features: Camera optimization
+Price: ₹28,999
+Best Use Case: Social media creators
+
+469.
+Name: Realme 10 Pro+
+Category: Smartphone
+Key Features: Curved AMOLED
+Price: ₹24,999
+Best Use Case: Stylish midrange users
+
+470.
+Name: Lava Z3
+Category: Smartphone
+Key Features: Budget pricing
+Price: ₹7,499
+Best Use Case: First smartphone
+
+471.
+Name: Infinix Smart 7
+Category: Smartphone
+Key Features: Large display
+Price: ₹7,999
+Best Use Case: Budget daily usage
+
+472.
+Name: Tecno Pova 5
+Category: Smartphone
+Key Features: Gaming battery
+Price: ₹12,999
+Best Use Case: Casual gamers
+
+--- TWO-WHEELERS ---
+
+473.
+Name: Honda CB350
+Category: Motorcycle
+Key Features: Refined cruiser
+Price: ₹2,00,000
+Best Use Case: Relaxed touring
+
+474.
+Name: Honda CB300F
+Category: Motorcycle
+Key Features: Lightweight power
+Price: ₹1,75,000
+Best Use Case: Urban performance
+
+475.
+Name: Bajaj Pulsar N250
+Category: Motorcycle
+Key Features: Modern Pulsar
+Price: ₹1,50,000
+Best Use Case: Sporty commuting
+
+476.
+Name: Bajaj Pulsar NS200
+Category: Motorcycle
+Key Features: Strong acceleration
+Price: ₹1,55,000
+Best Use Case: Performance riders
+
+477.
+Name: TVS Apache RR310
+Category: Sports Bike
+Key Features: Track-ready design
+Price: ₹2,72,000
+Best Use Case: Sport riding
+
+478.
+Name: Yamaha FZ-X
+Category: Motorcycle
+Key Features: Neo-retro styling
+Price: ₹1,36,000
+Best Use Case: City cruising
+
+479.
+Name: Royal Enfield Bullet 350
+Category: Motorcycle
+Key Features: Classic thump
+Price: ₹1,75,000
+Best Use Case: Traditional riders
+
+480.
+Name: Royal Enfield Hunter 350
+Category: Motorcycle
+Key Features: Lightweight RE
+Price: ₹1,50,000
+Best Use Case: Urban riders
+
+481.
+Name: KTM Adventure 390
+Category: Adventure Bike
+Key Features: Off-road capability
+Price: ₹3,40,000
+Best Use Case: Long-distance touring
+
+482.
+Name: Suzuki Intruder 150
+Category: Cruiser Bike
+Key Features: Comfortable seating
+Price: ₹1,30,000
+Best Use Case: Relaxed rides
+
+--- CARS ---
+
+483.
+Name: Hyundai Venue
+Category: Compact SUV
+Key Features: Feature-rich
+Price: ₹12,00,000
+Best Use Case: Urban SUV buyers
+
+484.
+Name: Hyundai Venue N Line
+Category: Compact SUV
+Key Features: Sporty tuning
+Price: ₹13,50,000
+Best Use Case: Youth buyers
+
+485.
+Name: Maruti Fronx
+Category: Crossover
+Key Features: Turbo engine
+Price: ₹11,00,000
+Best Use Case: City + highway use
+
+486.
+Name: Maruti Jimny
+Category: Off-road SUV
+Key Features: 4x4 system
+Price: ₹14,00,000
+Best Use Case: Adventure driving
+
+487.
+Name: Tata Bolt
+Category: Hatchback
+Key Features: Strong build
+Price: ₹6,00,000
+Best Use Case: Budget hatchback
+
+488.
+Name: Tata Zest
+Category: Sedan
+Key Features: Comfortable ride
+Price: ₹8,00,000
+Best Use Case: Family sedan
+
+489.
+Name: Mahindra KUV100
+Category: Micro SUV
+Key Features: Compact design
+Price: ₹7,00,000
+Best Use Case: City driving
+
+490.
+Name: Renault Triber
+Category: MPV
+Key Features: Modular seating
+Price: ₹8,50,000
+Best Use Case: Small families
+
+491.
+Name: Renault Duster
+Category: SUV
+Key Features: Strong suspension
+Price: ₹14,00,000
+Best Use Case: Rough roads
+
+492.
+Name: Ford EcoSport
+Category: Compact SUV
+Key Features: Solid handling
+Price: ₹12,00,000
+Best Use Case: Driving enthusiasts
+
+493.
+Name: Ford Endeavour
+Category: SUV
+Key Features: Powerful engine
+Price: ₹35,00,000
+Best Use Case: Highway touring
+
+494.
+Name: Toyota Etios
+Category: Sedan
+Key Features: Reliable engine
+Price: ₹9,50,000
+Best Use Case: Taxi & personal use
+
+495.
+Name: Toyota Corolla Altis
+Category: Sedan
+Key Features: Long-term reliability
+Price: ₹18,00,000
+Best Use Case: Comfortable commuting
+
+--- ELECTRIC VEHICLES ---
+
+496.
+Name: Tata Nano EV
+Category: Electric Hatchback
+Key Features: Compact EV concept
+Price: ₹6,00,000
+Best Use Case: City electric driving
+
+497.
+Name: MG Windsor EV
+Category: Electric Sedan
+Key Features: Premium EV
+Price: ₹18,00,000
+Best Use Case: Electric commuting
+
+498.
+Name: Mahindra eVerito
+Category: Electric Sedan
+Key Features: Affordable EV
+Price: ₹10,00,000
+Best Use Case: Fleet EV usage
+
+499.
+Name: Hyundai Ioniq 5
+Category: Electric SUV
+Key Features: Ultra-fast charging
+Price: ₹45,00,000
+Best Use Case: Premium EV buyers
+
+500.
+Name: BMW iX
+Category: Electric SUV
+Key Features: Luxury electric
+Price: ₹1,20,00,000
+Best Use Case: Luxury EV users
+
+--- SMARTPHONES CONTINUED ---
+
+501.
+Name: Samsung Galaxy Z Flip 3
+Category: Foldable Smartphone
+Key Features: Compact foldable
+Price: ₹84,999
+Best Use Case: Stylish users
+
+502.
+Name: Samsung Galaxy Note 20
+Category: Smartphone
+Key Features: S-Pen support
+Price: ₹69,999
+Best Use Case: Productivity users
+
+503.
+Name: Apple iPhone 8 Plus
+Category: Smartphone
+Key Features: Touch ID
+Price: ₹39,900
+Best Use Case: Basic iPhone users
+
+504.
+Name: Apple iPhone X
+Category: Smartphone
+Key Features: OLED display
+Price: ₹45,900
+Best Use Case: Premium legacy users
+
+505.
+Name: OnePlus 7 Pro
+Category: Smartphone
+Key Features: Full-screen display
+Price: ₹41,999
+Best Use Case: Smooth UI lovers
+
+506.
+Name: Xiaomi Mi A3
+Category: Smartphone
+Key Features: Stock Android
+Price: ₹15,999
+Best Use Case: Clean Android fans
+
+507.
+Name: Redmi Note 10
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹14,999
+Best Use Case: Budget multimedia
+
+508.
+Name: Poco X3
+Category: Smartphone
+Key Features: Gaming chipset
+Price: ₹18,999
+Best Use Case: Performance budget
+
+509.
+Name: Vivo U20
+Category: Smartphone
+Key Features: Large battery
+Price: ₹13,999
+Best Use Case: Long usage
+
+510.
+Name: Oppo F19
+Category: Smartphone
+Key Features: Slim design
+Price: ₹18,999
+Best Use Case: Style-focused users
+
+511.
+Name: Realme X7 Max
+Category: Smartphone
+Key Features: AMOLED, Dimensity chipset
+Price: ₹26,999
+Best Use Case: Performance midrange users
+
+512.
+Name: Realme C33
+Category: Smartphone
+Key Features: Budget design
+Price: ₹8,999
+Best Use Case: Entry smartphone users
+
+513.
+Name: iQOO 9
+Category: Smartphone
+Key Features: Flagship processor
+Price: ₹49,999
+Best Use Case: Power users
+
+514.
+Name: Motorola Edge 20
+Category: Smartphone
+Key Features: Clean Android
+Price: ₹29,999
+Best Use Case: Stock Android fans
+
+515.
+Name: Asus Zenfone 8
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹55,999
+Best Use Case: One-hand premium use
+
+516.
+Name: Sony Xperia 10 V
+Category: Smartphone
+Key Features: Lightweight design
+Price: ₹49,999
+Best Use Case: Compact phone lovers
+
+517.
+Name: Nokia G42
+Category: Smartphone
+Key Features: Repairable build
+Price: ₹12,999
+Best Use Case: Sustainable users
+
+518.
+Name: Nokia X30
+Category: Smartphone
+Key Features: Clean Android, durability
+Price: ₹39,999
+Best Use Case: Long-term Android use
+
+519.
+Name: Lava Yuva 2
+Category: Smartphone
+Key Features: Budget 5G
+Price: ₹7,999
+Best Use Case: Students
+
+520.
+Name: Micromax IN 2C
+Category: Smartphone
+Key Features: Stock Android
+Price: ₹8,499
+Best Use Case: Simple daily use
+
+--- TWO-WHEELERS ---
+
+521.
+Name: Hero Xtreme 160R
+Category: Motorcycle
+Key Features: Lightweight sporty
+Price: ₹1,20,000
+Best Use Case: City performance
+
+522.
+Name: Bajaj Freedom CNG
+Category: Motorcycle
+Key Features: CNG fuel
+Price: ₹95,000
+Best Use Case: Low-cost commuting
+
+523.
+Name: TVS Radeon
+Category: Motorcycle
+Key Features: Comfortable commuter
+Price: ₹72,000
+Best Use Case: Rural commuting
+
+524.
+Name: Yamaha Saluto
+Category: Motorcycle
+Key Features: Mileage oriented
+Price: ₹75,000
+Best Use Case: Daily travel
+
+525.
+Name: Honda Livo
+Category: Motorcycle
+Key Features: Reliable engine
+Price: ₹78,000
+Best Use Case: Office commute
+
+526.
+Name: Royal Enfield Scram 411
+Category: Adventure Motorcycle
+Key Features: Mixed terrain riding
+Price: ₹2,05,000
+Best Use Case: Touring + city
+
+527.
+Name: KTM RC 200
+Category: Sports Bike
+Key Features: Track styling
+Price: ₹2,10,000
+Best Use Case: Entry sport riders
+
+528.
+Name: Suzuki Gixxer 250
+Category: Motorcycle
+Key Features: Strong mid-range
+Price: ₹1,85,000
+Best Use Case: Daily + highway riding
+
+529.
+Name: Yamaha R3
+Category: Sports Bike
+Key Features: Twin-cylinder engine
+Price: ₹3,50,000
+Best Use Case: Beginner superbike
+
+530.
+Name: BMW G310RR
+Category: Sports Bike
+Key Features: BMW performance
+Price: ₹3,05,000
+Best Use Case: Premium sport riding
+
+--- CARS ---
+
+531.
+Name: Hyundai Santro
+Category: Hatchback
+Key Features: Compact city car
+Price: ₹5,50,000
+Best Use Case: Entry-level buyers
+
+532.
+Name: Maruti Alto K10
+Category: Hatchback
+Key Features: High mileage
+Price: ₹4,80,000
+Best Use Case: Budget city driving
+
+533.
+Name: Maruti S-Presso
+Category: Hatchback
+Key Features: Tall-boy design
+Price: ₹5,00,000
+Best Use Case: Urban driving
+
+534.
+Name: Tata Indica
+Category: Hatchback
+Key Features: Spacious cabin
+Price: ₹5,20,000
+Best Use Case: Taxi usage
+
+535.
+Name: Tata Indigo
+Category: Sedan
+Key Features: Diesel efficiency
+Price: ₹6,50,000
+Best Use Case: Commercial sedan
+
+536.
+Name: Mahindra Logan
+Category: Sedan
+Key Features: Rugged build
+Price: ₹7,00,000
+Best Use Case: Long-distance taxi
+
+537.
+Name: Skoda Octavia
+Category: Sedan
+Key Features: Performance + comfort
+Price: ₹28,00,000
+Best Use Case: Enthusiast executives
+
+538.
+Name: Volkswagen Passat
+Category: Sedan
+Key Features: German refinement
+Price: ₹33,00,000
+Best Use Case: Premium commuting
+
+539.
+Name: Toyota Yaris
+Category: Sedan
+Key Features: Reliability
+Price: ₹14,00,000
+Best Use Case: City sedan buyers
+
+540.
+Name: Honda Civic
+Category: Sedan
+Key Features: Sporty design
+Price: ₹22,00,000
+Best Use Case: Premium sedan lovers
+
+--- ELECTRIC TWO-WHEELERS ---
+
+541.
+Name: Hero Vida V1
+Category: Electric Scooter
+Key Features: Swappable battery
+Price: ₹1,35,000
+Best Use Case: City EV commuting
+
+542.
+Name: TVS X EV
+Category: Electric Scooter
+Key Features: Premium EV tech
+Price: ₹2,50,000
+Best Use Case: Premium EV riders
+
+543.
+Name: Ather Rizta
+Category: Electric Scooter
+Key Features: Family-focused EV
+Price: ₹1,10,000
+Best Use Case: Family commuting
+
+544.
+Name: Bounce Infinity E1
+Category: Electric Scooter
+Key Features: Battery swapping
+Price: ₹1,15,000
+Best Use Case: Shared mobility
+
+545.
+Name: Okaya Faast
+Category: Electric Scooter
+Key Features: Fast charging
+Price: ₹1,25,000
+Best Use Case: Urban EV riders
+
+--- ELECTRIC CARS ---
+
+546.
+Name: Tata Punch EV
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹13,50,000
+Best Use Case: City EV buyers
+
+547.
+Name: Tata Tiago EV LR
+Category: Electric Hatchback
+Key Features: Long range
+Price: ₹11,50,000
+Best Use Case: Daily electric commute
+
+548.
+Name: Citroen eC3
+Category: Electric Hatchback
+Key Features: Comfortable suspension
+Price: ₹12,00,000
+Best Use Case: City EV usage
+
+549.
+Name: BYD Dolphin
+Category: Electric Hatchback
+Key Features: Global EV platform
+Price: ₹18,00,000
+Best Use Case: Premium EV hatchback
+
+550.
+Name: Volvo EX30
+Category: Electric SUV
+Key Features: Compact luxury EV
+Price: ₹45,00,000
+Best Use Case: Urban luxury EV
+
+--- SMARTPHONES CONTINUED ---
+
+551.
+Name: Samsung Galaxy A04
+Category: Smartphone
+Key Features: Budget display
+Price: ₹9,999
+Best Use Case: First smartphone
+
+552.
+Name: Samsung Galaxy F15
+Category: Smartphone
+Key Features: Big battery
+Price: ₹14,999
+Best Use Case: Long usage
+
+553.
+Name: Apple iPhone 7
+Category: Smartphone
+Key Features: Compact iPhone
+Price: ₹29,900
+Best Use Case: Entry Apple users
+
+554.
+Name: Apple iPhone SE 2020
+Category: Smartphone
+Key Features: Touch ID, A13 chip
+Price: ₹39,900
+Best Use Case: Small phone users
+
+555.
+Name: OnePlus 6T
+Category: Smartphone
+Key Features: Smooth OxygenOS
+Price: ₹32,999
+Best Use Case: Clean UI lovers
+
+556.
+Name: Xiaomi Poco F1
+Category: Smartphone
+Key Features: Flagship killer
+Price: ₹24,999
+Best Use Case: Performance budget
+
+557.
+Name: Redmi Note 8 Pro
+Category: Smartphone
+Key Features: Gaming performance
+Price: ₹17,999
+Best Use Case: Midrange gamers
+
+558.
+Name: Vivo V15 Pro
+Category: Smartphone
+Key Features: Pop-up camera
+Price: ₹29,999
+Best Use Case: Photography enthusiasts
+
+559.
+Name: Oppo Reno 2
+Category: Smartphone
+Key Features: Zoom camera
+Price: ₹34,999
+Best Use Case: Camera users
+
+560.
+Name: Realme XT
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹19,999
+Best Use Case: Budget AMOLED users
+
+--- COMMERCIAL & UTILITY ---
+
+561.
+Name: Tata Magic Express
+Category: Passenger Van
+Key Features: Compact people mover
+Price: ₹7,00,000
+Best Use Case: Shared transport
+
+562.
+Name: Mahindra Supro
+Category: Mini Van
+Key Features: Fuel efficient
+Price: ₹6,50,000
+Best Use Case: Small logistics
+
+563.
+Name: Ashok Leyland Stile
+Category: MPV
+Key Features: Taxi-friendly
+Price: ₹9,00,000
+Best Use Case: Commercial passenger use
+
+564.
+Name: Force Trax
+Category: Utility Vehicle
+Key Features: Rugged chassis
+Price: ₹8,50,000
+Best Use Case: Rural transport
+
+565.
+Name: Piaggio Porter 700
+Category: Mini Truck
+Key Features: Compact load carrier
+Price: ₹4,90,000
+Best Use Case: City deliveries
+
+--- PREMIUM & FUTURE ---
+
+566.
+Name: Mercedes-Benz EQB
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹74,00,000
+Best Use Case: Premium electric families
+
+567.
+Name: Mercedes-Benz EQE
+Category: Electric Sedan
+Key Features: Luxury comfort
+Price: ₹90,00,000
+Best Use Case: Executive EV buyers
+
+568.
+Name: Audi Q4 e-tron
+Category: Electric SUV
+Key Features: Premium EV platform
+Price: ₹72,00,000
+Best Use Case: Luxury EV usage
+
+569.
+Name: Porsche Taycan
+Category: Electric Sports Sedan
+Key Features: Extreme performance
+Price: ₹1,60,00,000
+Best Use Case: Performance EV lovers
+
+570.
+Name: Tesla Cybertruck
+Category: Electric Pickup
+Key Features: Futuristic design
+Price: ₹70,00,000
+Best Use Case: Utility + innovation
+
+571.
+Name: Tesla Roadster
+Category: Electric Sports Car
+Key Features: Ultra-fast acceleration
+Price: ₹2,00,00,000
+Best Use Case: Performance showcase
+
+572.
+Name: Rivian R1T
+Category: Electric Pickup
+Key Features: Adventure EV
+Price: ₹75,00,000
+Best Use Case: Off-road electric use
+
+573.
+Name: Lucid Air
+Category: Electric Sedan
+Key Features: Longest EV range
+Price: ₹1,20,00,000
+Best Use Case: Luxury EV travel
+
+574.
+Name: Fisker Ocean
+Category: Electric SUV
+Key Features: Sustainable materials
+Price: ₹50,00,000
+Best Use Case: Eco-conscious buyers
+
+575.
+Name: VinFast VF8
+Category: Electric SUV
+Key Features: Global EV
+Price: ₹42,00,000
+Best Use Case: Mid-premium EV
+
+576.
+Name: VinFast VF9
+Category: Electric SUV
+Key Features: 3-row EV
+Price: ₹60,00,000
+Best Use Case: Large electric families
+
+577.
+Name: Xiaomi SU7
+Category: Electric Sedan
+Key Features: Tech-focused EV
+Price: ₹35,00,000
+Best Use Case: Tech-savvy buyers
+
+578.
+Name: Huawei Aito M5
+Category: Electric SUV
+Key Features: Smart ecosystem
+Price: ₹55,00,000
+Best Use Case: Connected car users
+
+579.
+Name: BYD Han EV
+Category: Electric Sedan
+Key Features: Luxury EV
+Price: ₹45,00,000
+Best Use Case: Premium electric driving
+
+580.
+Name: BYD Tang EV
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹48,00,000
+Best Use Case: Family EV usage
+
+581.
+Name: Toyota bZ4X
+Category: Electric SUV
+Key Features: Toyota reliability
+Price: ₹50,00,000
+Best Use Case: Trusted EV buyers
+
+582.
+Name: Lexus RZ 450e
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹95,00,000
+Best Use Case: Luxury electric ownership
+
+583.
+Name: Genesis GV60
+Category: Electric SUV
+Key Features: Premium Korean EV
+Price: ₹80,00,000
+Best Use Case: High-end EV users
+
+584.
+Name: Hyundai N Vision 74
+Category: Concept Electric Car
+Key Features: Retro futuristic design
+Price: ₹1,00,00,000
+Best Use Case: Concept showcase
+
+585.
+Name: Sony Vision-S
+Category: Electric Sedan
+Key Features: Entertainment-focused EV
+Price: ₹90,00,000
+Best Use Case: Tech innovation demo
+
+586.
+Name: Apple Car
+Category: Electric Car (Concept)
+Key Features: Autonomous systems
+Price: ₹1,20,00,000
+Best Use Case: Future mobility concept
+
+587.
+Name: Rimac Nevera
+Category: Electric Hypercar
+Key Features: Record-breaking speed
+Price: ₹18,00,00,000
+Best Use Case: Hyper-performance showcase
+
+588.
+Name: Lotus Evija
+Category: Electric Hypercar
+Key Features: Ultra-light EV
+Price: ₹16,00,00,000
+Best Use Case: Track performance
+
+589.
+Name: Pininfarina Battista
+Category: Electric Hypercar
+Key Features: Luxury performance
+Price: ₹20,00,00,000
+Best Use Case: Ultra-luxury EV
+
+590.
+Name: DeLorean Alpha5
+Category: Electric Coupe
+Key Features: Retro revival
+Price: ₹1,50,00,000
+Best Use Case: Brand nostalgia EV
+
+591.
+Name: Canoo Pickup
+Category: Electric Pickup
+Key Features: Modular EV
+Price: ₹55,00,000
+Best Use Case: Urban utility
+
+592.
+Name: Canoo Lifestyle Vehicle
+Category: Electric Van
+Key Features: Flat skateboard EV
+Price: ₹48,00,000
+Best Use Case: Shared mobility
+
+593.
+Name: Bollinger B1
+Category: Electric SUV
+Key Features: Off-road EV
+Price: ₹1,00,00,000
+Best Use Case: Rugged electric driving
+
+594.
+Name: Bollinger B2
+Category: Electric Pickup
+Key Features: Utility EV
+Price: ₹1,10,00,000
+Best Use Case: Workhorse EV
+
+595.
+Name: Lightyear 0
+Category: Solar Electric Car
+Key Features: Solar charging
+Price: ₹2,00,00,000
+Best Use Case: Experimental EV
+
+596.
+Name: Aptera Solar EV
+Category: Solar Electric Car
+Key Features: Ultra efficiency
+Price: ₹60,00,000
+Best Use Case: Energy-efficient driving
+
+597.
+Name: Sono Sion
+Category: Solar Electric Car
+Key Features: Solar panels
+Price: ₹30,00,000
+Best Use Case: Eco mobility
+
+598.
+Name: Renault 5 EV
+Category: Electric Hatchback
+Key Features: Retro EV
+Price: ₹25,00,000
+Best Use Case: Urban EV
+
+599.
+Name: Volkswagen ID.2
+Category: Electric Hatchback
+Key Features: Affordable EV
+Price: ₹22,00,000
+Best Use Case: Mass EV adoption
+
+600.
+Name: Skoda Enyaq iV
+Category: Electric SUV
+Key Features: European EV platform
+Price: ₹45,00,000
+Best Use Case: Premium electric SUV
+
+601.
+Name: Hyundai Creta EV
+Category: Electric SUV
+Key Features: Popular SUV platform
+Price: ₹20,00,000
+Best Use Case: Family electric driving
+
+602.
+Name: Kia EV6
+Category: Electric SUV
+Key Features: Fast charging
+Price: ₹60,00,000
+Best Use Case: Premium EV travel
+
+603.
+Name: MG4 EV
+Category: Electric Hatchback
+Key Features: Sporty EV
+Price: ₹25,00,000
+Best Use Case: Urban performance EV
+
+604.
+Name: Ford Mustang Mach-E
+Category: Electric SUV
+Key Features: Performance EV
+Price: ₹70,00,000
+Best Use Case: Sporty electric driving
+
+605.
+Name: Chevrolet Bolt EUV
+Category: Electric SUV
+Key Features: Affordable EV
+Price: ₹32,00,000
+Best Use Case: Daily electric commute
+
+606.
+Name: Nissan Ariya
+Category: Electric SUV
+Key Features: Smooth ride
+Price: ₹55,00,000
+Best Use Case: Comfortable EV touring
+
+607.
+Name: Subaru Solterra
+Category: Electric SUV
+Key Features: AWD system
+Price: ₹48,00,000
+Best Use Case: All-weather EV driving
+
+608.
+Name: Mazda MX-30 EV
+Category: Electric SUV
+Key Features: Unique doors
+Price: ₹42,00,000
+Best Use Case: Design-focused EV users
+
+609.
+Name: Peugeot e-208
+Category: Electric Hatchback
+Key Features: Compact EV
+Price: ₹28,00,000
+Best Use Case: City EV usage
+
+610.
+Name: Opel Mokka-e
+Category: Electric SUV
+Key Features: Bold design
+Price: ₹30,00,000
+Best Use Case: Stylish EV buyers
+
+--- SMARTPHONES ---
+
+611.
+Name: Samsung Galaxy Z Fold 3
+Category: Foldable Smartphone
+Key Features: Foldable display
+Price: ₹1,49,999
+Best Use Case: Productivity users
+
+612.
+Name: Samsung Galaxy Z Flip 3
+Category: Foldable Smartphone
+Key Features: Compact fold
+Price: ₹89,999
+Best Use Case: Trend-focused users
+
+613.
+Name: Xiaomi Mix Fold
+Category: Foldable Smartphone
+Key Features: Large fold screen
+Price: ₹1,10,000
+Best Use Case: Media consumption
+
+614.
+Name: Huawei Mate X2
+Category: Foldable Smartphone
+Key Features: Outward fold
+Price: ₹1,60,000
+Best Use Case: Premium foldable users
+
+615.
+Name: Oppo Find N
+Category: Foldable Smartphone
+Key Features: Compact fold
+Price: ₹1,20,000
+Best Use Case: One-hand foldable use
+
+616.
+Name: Vivo X Fold
+Category: Foldable Smartphone
+Key Features: Zeiss cameras
+Price: ₹1,40,000
+Best Use Case: Photography enthusiasts
+
+617.
+Name: Tecno Phantom V Fold
+Category: Foldable Smartphone
+Key Features: Affordable fold
+Price: ₹88,888
+Best Use Case: Budget foldable buyers
+
+618.
+Name: Samsung Galaxy S23 FE
+Category: Smartphone
+Key Features: Flagship experience
+Price: ₹49,999
+Best Use Case: Premium midrange
+
+619.
+Name: Google Pixel Fold
+Category: Foldable Smartphone
+Key Features: Pixel camera
+Price: ₹1,50,000
+Best Use Case: Stock Android fans
+
+620.
+Name: Motorola Razr 40 Ultra
+Category: Foldable Smartphone
+Key Features: Flip phone revival
+Price: ₹89,999
+Best Use Case: Compact premium use
+
+--- TWO-WHEELERS ---
+
+621.
+Name: Bajaj Pulsar N150
+Category: Motorcycle
+Key Features: Balanced commuter
+Price: ₹1,18,000
+Best Use Case: Daily riding
+
+622.
+Name: Honda SP 160
+Category: Motorcycle
+Key Features: Reliable engine
+Price: ₹1,17,000
+Best Use Case: City commuting
+
+623.
+Name: TVS Ronin
+Category: Scrambler Motorcycle
+Key Features: Retro-modern design
+Price: ₹1,49,000
+Best Use Case: City + highway riding
+
+624.
+Name: Royal Enfield Hunter 350
+Category: Motorcycle
+Key Features: Lightweight RE
+Price: ₹1,49,900
+Best Use Case: Urban riding
+
+625.
+Name: Yamaha MT-15 V2
+Category: Motorcycle
+Key Features: Naked sport
+Price: ₹1,68,000
+Best Use Case: City performance
+
+626.
+Name: KTM Duke 125
+Category: Motorcycle
+Key Features: Aggressive styling
+Price: ₹1,78,000
+Best Use Case: Beginner sport riders
+
+627.
+Name: Suzuki Access 125
+Category: Scooter
+Key Features: Smooth engine
+Price: ₹80,000
+Best Use Case: Daily commuting
+
+628.
+Name: Honda Dio 125
+Category: Scooter
+Key Features: Sporty scooter
+Price: ₹85,000
+Best Use Case: Youth riders
+
+629.
+Name: Yamaha Fascino 125
+Category: Scooter
+Key Features: Hybrid tech
+Price: ₹82,000
+Best Use Case: Stylish commuting
+
+630.
+Name: Aprilia SR 160
+Category: Scooter
+Key Features: Performance scooter
+Price: ₹1,35,000
+Best Use Case: Sporty city riding
+
+--- CARS ---
+
+631.
+Name: Maruti Swift Hybrid
+Category: Hatchback
+Key Features: Hybrid mileage
+Price: ₹8,50,000
+Best Use Case: Fuel-efficient city driving
+
+632.
+Name: Toyota Corolla Cross
+Category: SUV
+Key Features: Hybrid system
+Price: ₹22,00,000
+Best Use Case: Comfortable family SUV
+
+633.
+Name: Honda Elevate
+Category: SUV
+Key Features: Practical design
+Price: ₹13,00,000
+Best Use Case: Urban family use
+
+634.
+Name: Hyundai Exter
+Category: Compact SUV
+Key Features: Entry SUV
+Price: ₹6,50,000
+Best Use Case: First-time SUV buyers
+
+635.
+Name: Tata Sierra EV
+Category: Electric SUV
+Key Features: Retro design
+Price: ₹25,00,000
+Best Use Case: Lifestyle EV
+
+636.
+Name: Mahindra Thar 5-Door
+Category: SUV
+Key Features: Off-road ready
+Price: ₹18,00,000
+Best Use Case: Adventure lovers
+
+637.
+Name: Force Gurkha 5-Door
+Category: SUV
+Key Features: Hardcore off-road
+Price: ₹17,00,000
+Best Use Case: Extreme terrain driving
+
+638.
+Name: Jeep Avenger EV
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹30,00,000
+Best Use Case: Urban electric SUV
+
+639.
+Name: Skoda Kushaq
+Category: SUV
+Key Features: Turbo petrol
+Price: ₹11,50,000
+Best Use Case: Driving enthusiasts
+
+640.
+Name: Volkswagen Taigun
+Category: SUV
+Key Features: German handling
+Price: ₹11,70,000
+Best Use Case: Sporty family SUV
+
+--- ELECTRIC TWO-WHEELERS ---
+
+641.
+Name: Ola S1 X
+Category: Electric Scooter
+Key Features: Budget EV
+Price: ₹90,000
+Best Use Case: Affordable EV commuting
+
+642.
+Name: Ola S1 Pro Gen 2
+Category: Electric Scooter
+Key Features: Long range
+Price: ₹1,47,000
+Best Use Case: Daily EV riders
+
+643.
+Name: Ather 450X Gen 3
+Category: Electric Scooter
+Key Features: Smart dashboard
+Price: ₹1,40,000
+Best Use Case: Tech-savvy users
+
+644.
+Name: TVS iQube ST
+Category: Electric Scooter
+Key Features: Touchscreen display
+Price: ₹1,55,000
+Best Use Case: Family EV use
+
+645.
+Name: Simple One
+Category: Electric Scooter
+Key Features: Long range
+Price: ₹1,45,000
+Best Use Case: Long-distance commuting
+
+646.
+Name: Ampere Magnus EX
+Category: Electric Scooter
+Key Features: Affordable EV
+Price: ₹85,000
+Best Use Case: Budget EV commuting
+
+647.
+Name: Okinawa Ridge Plus
+Category: Electric Scooter
+Key Features: Lightweight EV
+Price: ₹70,000
+Best Use Case: Short city trips
+
+648.
+Name: Hero Electric Optima CX
+Category: Electric Scooter
+Key Features: Dual battery option
+Price: ₹85,000
+Best Use Case: Daily commuting
+
+649.
+Name: Revolt RV400
+Category: Electric Motorcycle
+Key Features: AI features
+Price: ₹1,25,000
+Best Use Case: Electric bike riding
+
+650.
+Name: Tork Kratos R
+Category: Electric Motorcycle
+Key Features: Performance EV
+Price: ₹1,87,000
+Best Use Case: Sporty EV riding
+
+--- PREMIUM & GLOBAL ---
+
+651.
+Name: Ducati Panigale V4
+Category: Superbike
+Key Features: Track performance
+Price: ₹28,00,000
+Best Use Case: Track racing
+
+652.
+Name: Kawasaki Ninja ZX-10R
+Category: Superbike
+Key Features: Superb handling
+Price: ₹16,00,000
+Best Use Case: Racing enthusiasts
+
+653.
+Name: BMW S1000RR
+Category: Superbike
+Key Features: Advanced electronics
+Price: ₹20,00,000
+Best Use Case: Performance riding
+
+654.
+Name: Harley-Davidson Sportster S
+Category: Motorcycle
+Key Features: Modern cruiser
+Price: ₹16,50,000
+Best Use Case: Premium cruising
+
+655.
+Name: Triumph Speed 400
+Category: Motorcycle
+Key Features: Balanced performance
+Price: ₹2,33,000
+Best Use Case: Daily + highway riding
+
+656.
+Name: Triumph Scrambler 400X
+Category: Motorcycle
+Key Features: Adventure styling
+Price: ₹2,63,000
+Best Use Case: Rough road riding
+
+657.
+Name: Tesla Model Y
+Category: Electric SUV
+Key Features: Autopilot
+Price: ₹60,00,000
+Best Use Case: Long-range EV travel
+
+658.
+Name: Tesla Model X
+Category: Electric SUV
+Key Features: Falcon doors
+Price: ₹1,20,00,000
+Best Use Case: Luxury EV families
+
+659.
+Name: Tesla Model S Plaid
+Category: Electric Sedan
+Key Features: Extreme acceleration
+Price: ₹1,50,00,000
+Best Use Case: Performance EV
+
+660.
+Name: Lucid Gravity
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹1,30,00,000
+Best Use Case: Premium electric SUV
+
+--- COMMERCIAL ---
+
+661.
+Name: Tata Ace EV
+Category: Electric Mini Truck
+Key Features: Zero-emission delivery
+Price: ₹9,00,000
+Best Use Case: Urban logistics
+
+662.
+Name: Mahindra Treo
+Category: Electric Auto
+Key Features: Low running cost
+Price: ₹3,00,000
+Best Use Case: Commercial transport
+
+663.
+Name: Piaggio Ape E-Xtra
+Category: Electric Cargo
+Key Features: Cargo EV
+Price: ₹4,00,000
+Best Use Case: Last-mile delivery
+
+664.
+Name: Ashok Leyland Dost CNG
+Category: Light Truck
+Key Features: Low emissions
+Price: ₹7,50,000
+Best Use Case: City cargo
+
+665.
+Name: Eicher Pro 2049 EV
+Category: Electric Truck
+Key Features: Medium cargo
+Price: ₹25,00,000
+Best Use Case: Fleet operations
+
+--- SMARTPHONES CONTINUED ---
+
+666.
+Name: Infinix Zero 30
+Category: Smartphone
+Key Features: 4K selfie camera
+Price: ₹23,999
+Best Use Case: Content creators
+
+667.
+Name: Tecno Camon 20
+Category: Smartphone
+Key Features: Camera-centric
+Price: ₹14,999
+Best Use Case: Photography beginners
+
+668.
+Name: Lava Agni 2
+Category: Smartphone
+Key Features: Indian 5G phone
+Price: ₹21,999
+Best Use Case: Performance users
+
+669.
+Name: Micromax IN Note 2
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹15,999
+Best Use Case: Budget AMOLED buyers
+
+670.
+Name: iQOO Neo 7
+Category: Smartphone
+Key Features: Gaming performance
+Price: ₹29,999
+Best Use Case: Mobile gamers
+
+671.
+Name: OnePlus Nord CE 3 Lite
+Category: Smartphone
+Key Features: Clean UI
+Price: ₹19,999
+Best Use Case: Smooth daily use
+
+672.
+Name: Samsung Galaxy M14
+Category: Smartphone
+Key Features: Large battery
+Price: ₹13,999
+Best Use Case: Long usage
+
+673.
+Name: Redmi 13C
+Category: Smartphone
+Key Features: Budget camera
+Price: ₹8,499
+Best Use Case: Entry smartphone
+
+674.
+Name: Vivo Y100
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹24,999
+Best Use Case: Stylish daily use
+
+675.
+Name: Oppo A78
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹18,999
+Best Use Case: Budget fast charge
+
+--- FUTURE & CONCEPT ---
+
+676.
+Name: Toyota Hilux EV
+Category: Electric Pickup
+Key Features: Rugged EV
+Price: ₹55,00,000
+Best Use Case: Utility EV use
+
+677.
+Name: Ford Ranger EV
+Category: Electric Pickup
+Key Features: Off-road EV
+Price: ₹60,00,000
+Best Use Case: Adventure EV
+
+678.
+Name: Isuzu D-Max EV
+Category: Electric Pickup
+Key Features: Workhorse EV
+Price: ₹58,00,000
+Best Use Case: Commercial EV
+
+679.
+Name: GMC Hummer EV
+Category: Electric SUV
+Key Features: Extreme off-road
+Price: ₹1,10,00,000
+Best Use Case: Rugged EV driving
+
+680.
+Name: Cadillac Lyriq
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹70,00,000
+Best Use Case: Premium EV buyers
+
+681.
+Name: Polestar 3
+Category: Electric SUV
+Key Features: Scandinavian design
+Price: ₹75,00,000
+Best Use Case: Design-focused EV
+
+682.
+Name: Polestar 4
+Category: Electric SUV
+Key Features: Coupe SUV
+Price: ₹65,00,000
+Best Use Case: Sporty EV use
+
+683.
+Name: Nio ES8
+Category: Electric SUV
+Key Features: Battery swap
+Price: ₹80,00,000
+Best Use Case: Long-range EV
+
+684.
+Name: Nio ET5
+Category: Electric Sedan
+Key Features: Smart cockpit
+Price: ₹60,00,000
+Best Use Case: Tech-centric EV
+
+685.
+Name: XPeng G9
+Category: Electric SUV
+Key Features: Autonomous driving
+Price: ₹70,00,000
+Best Use Case: Future mobility
+
+686.
+Name: XPeng P7
+Category: Electric Sedan
+Key Features: AI features
+Price: ₹55,00,000
+Best Use Case: Smart EV driving
+
+687.
+Name: Zeekr 001
+Category: Electric Shooting Brake
+Key Features: High performance
+Price: ₹75,00,000
+Best Use Case: Premium EV travel
+
+688.
+Name: Leapmotor C11
+Category: Electric SUV
+Key Features: Affordable EV
+Price: ₹40,00,000
+Best Use Case: Mid-range EV
+
+689.
+Name: Wuling Mini EV
+Category: Electric Hatchback
+Key Features: Ultra-compact
+Price: ₹6,00,000
+Best Use Case: City micro EV
+
+690.
+Name: Baojun KiWi EV
+Category: Electric Hatchback
+Key Features: Compact design
+Price: ₹8,00,000
+Best Use Case: Urban commuting
+
+--- CLOSING ---
+
+691.
+Name: Citroen Ami
+Category: Electric Microcar
+Key Features: Ultra small EV
+Price: ₹7,00,000
+Best Use Case: City-only driving
+
+692.
+Name: Renault Twizy
+Category: Electric Quadricycle
+Key Features: Compact EV
+Price: ₹6,50,000
+Best Use Case: Urban mobility
+
+693.
+Name: Smart EQ Fortwo
+Category: Electric Car
+Key Features: Two-seater EV
+Price: ₹25,00,000
+Best Use Case: City driving
+
+694.
+Name: Mini Cooper SE
+Category: Electric Hatchback
+Key Features: Fun-to-drive EV
+Price: ₹45,00,000
+Best Use Case: Premium city EV
+
+695.
+Name: Fiat 500e
+Category: Electric Hatchback
+Key Features: Retro styling
+Price: ₹30,00,000
+Best Use Case: Stylish EV driving
+
+696.
+Name: Honda e
+Category: Electric Hatchback
+Key Features: Retro-tech design
+Price: ₹40,00,000
+Best Use Case: City EV enthusiasts
+
+697.
+Name: Toyota C+Pod
+Category: Electric Microcar
+Key Features: Two-seater EV
+Price: ₹10,00,000
+Best Use Case: Short city trips
+
+698.
+Name: Daihatsu Rocky EV
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹22,00,000
+Best Use Case: Small families
+
+699.
+Name: Suzuki eVX
+Category: Electric SUV
+Key Features: Global EV platform
+Price: ₹25,00,000
+Best Use Case: Mass EV adoption
+
+700.
+Name: Maruti eVX
+Category: Electric SUV
+Key Features: India-focused EV
+Price: ₹22,00,000
+Best Use Case: Affordable EV SUV
+
+701.
+Name: Hyundai Ioniq 6
+Category: Electric Sedan
+Key Features: Aerodynamic design
+Price: ₹55,00,000
+Best Use Case: Long-range EV
+
+702.
+Name: Hyundai Ioniq 7
+Category: Electric SUV
+Key Features: Large EV
+Price: ₹65,00,000
+Best Use Case: Family EV travel
+
+703.
+Name: Kia EV9
+Category: Electric SUV
+Key Features: 3-row EV
+Price: ₹80,00,000
+Best Use Case: Large families
+
+704.
+Name: Genesis G80 EV
+Category: Electric Sedan
+Key Features: Luxury comfort
+Price: ₹95,00,000
+Best Use Case: Executive EV
+
+705.
+Name: BMW iX
+Category: Electric SUV
+Key Features: Luxury tech
+Price: ₹1,20,00,000
+Best Use Case: Premium EV lifestyle
+
+706.
+Name: BMW i7
+Category: Electric Sedan
+Key Features: Flagship luxury
+Price: ₹1,80,00,000
+Best Use Case: Luxury chauffeured use
+
+707.
+Name: Audi Q8 e-tron
+Category: Electric SUV
+Key Features: Premium build
+Price: ₹1,10,00,000
+Best Use Case: Luxury EV driving
+
+708.
+Name: Audi A6 e-tron
+Category: Electric Sedan
+Key Features: Sleek EV
+Price: ₹90,00,000
+Best Use Case: Executive EV
+
+709.
+Name: Mercedes EQS SUV
+Category: Electric SUV
+Key Features: Ultra luxury
+Price: ₹1,30,00,000
+Best Use Case: Luxury electric travel
+
+710.
+Name: Mercedes EQS Sedan
+Category: Electric Sedan
+Key Features: Flagship EV
+Price: ₹1,50,00,000
+Best Use Case: Premium EV comfort
+
+--- FINAL ---
+
+711.
+Name: Volvo EX90
+Category: Electric SUV
+Key Features: Safety-focused EV
+Price: ₹1,10,00,000
+Best Use Case: Family luxury EV
+
+712.
+Name: Volvo EM90
+Category: Electric MPV
+Key Features: Luxury EV van
+Price: ₹1,20,00,000
+Best Use Case: Premium transport
+
+713.
+Name: Zeekr X
+Category: Electric SUV
+Key Features: Compact premium EV
+Price: ₹45,00,000
+Best Use Case: Urban EV buyers
+
+714.
+Name: BYD Seagull
+Category: Electric Hatchback
+Key Features: Budget EV
+Price: ₹10,00,000
+Best Use Case: Affordable EV
+
+715.
+Name: Chery iCar 03
+Category: Electric SUV
+Key Features: Boxy design
+Price: ₹30,00,000
+Best Use Case: Off-road style EV
+
+716.
+Name: Chery Omoda E5
+Category: Electric SUV
+Key Features: Modern styling
+Price: ₹35,00,000
+Best Use Case: Stylish EV
+
+717.
+Name: Geely Galaxy E5
+Category: Electric SUV
+Key Features: Smart cockpit
+Price: ₹28,00,000
+Best Use Case: Tech-focused EV
+
+718.
+Name: Lynk & Co 08
+Category: Plug-in Hybrid SUV
+Key Features: Hybrid powertrain
+Price: ₹45,00,000
+Best Use Case: Long-distance travel
+
+719.
+Name: Roewe Marvel R
+Category: Electric SUV
+Key Features: Premium EV
+Price: ₹50,00,000
+Best Use Case: Luxury EV buyers
+
+720.
+Name: Hongqi E-HS9
+Category: Electric SUV
+Key Features: Ultra luxury EV
+Price: ₹1,40,00,000
+Best Use Case: VIP transport
+
+721.
+Name: VinFast VF3
+Category: Electric Micro SUV
+Key Features: Compact EV
+Price: ₹12,00,000
+Best Use Case: City EV
+
+722.
+Name: VinFast VF6
+Category: Electric SUV
+Key Features: Affordable EV
+Price: ₹25,00,000
+Best Use Case: Budget EV SUV
+
+723.
+Name: Tata Curvv EV
+Category: Electric SUV Coupe
+Key Features: Coupe styling
+Price: ₹18,00,000
+Best Use Case: Stylish EV buyers
+
+724.
+Name: Tata Avinya
+Category: Electric Concept Car
+Key Features: Futuristic EV
+Price: ₹40,00,000
+Best Use Case: Future mobility demo
+
+725.
+Name: Mahindra BE.05
+Category: Electric SUV
+Key Features: INGLO platform
+Price: ₹25,00,000
+Best Use Case: New-age EV
+
+726.
+Name: Mahindra XUV.e8
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹30,00,000
+Best Use Case: Family EV
+
+727.
+Name: Mahindra Thar.e
+Category: Electric SUV
+Key Features: Off-road EV
+Price: ₹28,00,000
+Best Use Case: Adventure EV
+
+728.
+Name: Jeep Recon EV
+Category: Electric SUV
+Key Features: Trail-rated EV
+Price: ₹55,00,000
+Best Use Case: Off-road electric use
+
+729.
+Name: Jeep Wagoneer S
+Category: Electric SUV
+Key Features: Premium EV
+Price: ₹70,00,000
+Best Use Case: Luxury SUV EV
+
+730.
+Name: Dodge Charger Daytona EV
+Category: Electric Muscle Car
+Key Features: Performance EV
+Price: ₹65,00,000
+Best Use Case: Muscle car fans
+
+731.
+Name: Ram 1500 REV
+Category: Electric Pickup
+Key Features: Heavy-duty EV
+Price: ₹80,00,000
+Best Use Case: Utility EV
+
+732.
+Name: Chevy Silverado EV
+Category: Electric Pickup
+Key Features: Large battery
+Price: ₹75,00,000
+Best Use Case: Work EV
+
+733.
+Name: Ford F-150 Lightning
+Category: Electric Pickup
+Key Features: High power output
+Price: ₹70,00,000
+Best Use Case: Utility + EV
+
+734.
+Name: Toyota Land Cruiser EV
+Category: Electric SUV
+Key Features: Rugged EV
+Price: ₹90,00,000
+Best Use Case: Extreme terrain
+
+735.
+Name: Lexus GX EV
+Category: Electric SUV
+Key Features: Premium off-road
+Price: ₹85,00,000
+Best Use Case: Luxury adventure
+
+736.
+Name: Suzuki Jimny EV
+Category: Electric SUV
+Key Features: Compact off-road EV
+Price: ₹25,00,000
+Best Use Case: City + trail
+
+737.
+Name: Dacia Spring EV
+Category: Electric Hatchback
+Key Features: Budget EV
+Price: ₹8,00,000
+Best Use Case: Entry EV buyers
+
+738.
+Name: MG Comet EV
+Category: Electric Microcar
+Key Features: Compact EV
+Price: ₹8,00,000
+Best Use Case: City driving
+
+739.
+Name: Wuling Air EV
+Category: Electric Hatchback
+Key Features: Small EV
+Price: ₹9,00,000
+Best Use Case: Urban commute
+
+740.
+Name: Baojun Yep
+Category: Electric Mini SUV
+Key Features: Boxy design
+Price: ₹12,00,000
+Best Use Case: Youth EV users
+
+741.
+Name: Smart #1
+Category: Electric SUV
+Key Features: Compact premium EV
+Price: ₹35,00,000
+Best Use Case: Urban luxury
+
+742.
+Name: Smart #3
+Category: Electric SUV
+Key Features: Coupe EV
+Price: ₹40,00,000
+Best Use Case: Stylish EV driving
+
+743.
+Name: Peugeot e-3008
+Category: Electric SUV
+Key Features: Large EV
+Price: ₹45,00,000
+Best Use Case: Family EV
+
+744.
+Name: Citroen e-C4
+Category: Electric Hatchback
+Key Features: Comfort-focused EV
+Price: ₹30,00,000
+Best Use Case: Smooth city ride
+
+745.
+Name: Renault Scenic EV
+Category: Electric SUV
+Key Features: Family EV
+Price: ₹38,00,000
+Best Use Case: Practical EV
+
+746.
+Name: Skoda Vision 7S
+Category: Electric SUV
+Key Features: Concept EV
+Price: ₹45,00,000
+Best Use Case: Future preview
+
+747.
+Name: Seat el-Born
+Category: Electric Hatchback
+Key Features: Sporty EV
+Price: ₹28,00,000
+Best Use Case: Youth EV buyers
+
+748.
+Name: Cupra Born
+Category: Electric Hatchback
+Key Features: Performance EV
+Price: ₹32,00,000
+Best Use Case: Sporty EV driving
+
+749.
+Name: Alfa Romeo Milano EV
+Category: Electric SUV
+Key Features: Italian styling
+Price: ₹50,00,000
+Best Use Case: Style-focused EV
+
+750.
+Name: Lancia Ypsilon EV
+Category: Electric Hatchback
+Key Features: Premium compact EV
+Price: ₹30,00,000
+Best Use Case: Urban premium use
+
+751.
+Name: Samsung Galaxy A15
+Category: Smartphone
+Key Features: Large display, budget friendly
+Price: ₹11,999
+Best Use Case: Basic smartphone users
+
+752.
+Name: Samsung Galaxy A25
+Category: Smartphone
+Key Features: AMOLED display, 5G
+Price: ₹16,999
+Best Use Case: Budget 5G users
+
+753.
+Name: Samsung Galaxy A35
+Category: Smartphone
+Key Features: OIS camera, AMOLED
+Price: ₹23,999
+Best Use Case: Balanced daily use
+
+754.
+Name: Samsung Galaxy A55
+Category: Smartphone
+Key Features: Metal frame, flagship feel
+Price: ₹39,999
+Best Use Case: Premium midrange buyers
+
+755.
+Name: Samsung Galaxy S24 Ultra
+Category: Smartphone
+Key Features: 200MP camera, S-Pen
+Price: ₹1,29,999
+Best Use Case: Power users and professionals
+
+756.
+Name: Apple iPhone SE 2024
+Category: Smartphone
+Key Features: Compact design, A-series chip
+Price: ₹49,999
+Best Use Case: iOS users wanting compact phone
+
+757.
+Name: Apple iPhone 15
+Category: Smartphone
+Key Features: USB-C, improved camera
+Price: ₹79,900
+Best Use Case: Everyday premium iPhone users
+
+758.
+Name: Apple iPhone 15 Plus
+Category: Smartphone
+Key Features: Large display, long battery
+Price: ₹89,900
+Best Use Case: Media consumption
+
+759.
+Name: Apple iPhone 15 Pro
+Category: Smartphone
+Key Features: Titanium body, Pro camera
+Price: ₹1,34,900
+Best Use Case: Photography and performance
+
+760.
+Name: Apple iPhone 15 Pro Max
+Category: Smartphone
+Key Features: Periscope zoom
+Price: ₹1,59,900
+Best Use Case: Premium camera users
+
+761.
+Name: Xiaomi Redmi Note 13
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹14,999
+Best Use Case: Budget multimedia use
+
+762.
+Name: Xiaomi Redmi Note 13 Pro
+Category: Smartphone
+Key Features: 200MP camera
+Price: ₹24,999
+Best Use Case: Camera-focused users
+
+763.
+Name: Xiaomi Redmi Note 13 Pro+
+Category: Smartphone
+Key Features: Curved display, fast charging
+Price: ₹31,999
+Best Use Case: Premium Redmi users
+
+764.
+Name: Xiaomi 14
+Category: Smartphone
+Key Features: Leica camera
+Price: ₹69,999
+Best Use Case: Compact flagship lovers
+
+765.
+Name: Poco X6
+Category: Smartphone
+Key Features: Performance chipset
+Price: ₹16,999
+Best Use Case: Gaming on budget
+
+766.
+Name: Poco X6 Pro
+Category: Smartphone
+Key Features: High-performance processor
+Price: ₹24,999
+Best Use Case: Hardcore mobile gamers
+
+767.
+Name: Poco F5
+Category: Smartphone
+Key Features: Flagship-level performance
+Price: ₹29,999
+Best Use Case: Performance enthusiasts
+
+768.
+Name: Realme Narzo 60
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹17,999
+Best Use Case: Stylish budget phone
+
+769.
+Name: Realme Narzo 60 Pro
+Category: Smartphone
+Key Features: Curved display
+Price: ₹23,999
+Best Use Case: Premium design lovers
+
+770.
+Name: Realme GT Neo 5
+Category: Smartphone
+Key Features: 240W fast charging
+Price: ₹34,999
+Best Use Case: Fast charging users
+
+771.
+Name: OnePlus Nord CE 4
+Category: Smartphone
+Key Features: Clean OxygenOS
+Price: ₹26,999
+Best Use Case: Smooth daily usage
+
+772.
+Name: OnePlus 12
+Category: Smartphone
+Key Features: Hasselblad camera
+Price: ₹69,999
+Best Use Case: Flagship Android users
+
+773.
+Name: Vivo T3
+Category: Smartphone
+Key Features: Slim design
+Price: ₹15,999
+Best Use Case: Stylish daily use
+
+774.
+Name: Vivo V30
+Category: Smartphone
+Key Features: Portrait camera
+Price: ₹33,999
+Best Use Case: Content creators
+
+775.
+Name: Vivo X100 Pro
+Category: Smartphone
+Key Features: Zeiss camera system
+Price: ₹89,999
+Best Use Case: Photography professionals
+
+776.
+Name: Oppo F25 Pro
+Category: Smartphone
+Key Features: Sleek design
+Price: ₹22,999
+Best Use Case: Everyday stylish use
+
+777.
+Name: Oppo Reno 11
+Category: Smartphone
+Key Features: AI camera features
+Price: ₹32,999
+Best Use Case: Social media users
+
+778.
+Name: Oppo Find X7 Ultra
+Category: Smartphone
+Key Features: Quad camera setup
+Price: ₹1,09,999
+Best Use Case: Premium photography
+
+779.
+Name: iQOO Z9
+Category: Smartphone
+Key Features: Gaming performance
+Price: ₹19,999
+Best Use Case: Mobile gaming
+
+780.
+Name: iQOO 12
+Category: Smartphone
+Key Features: Flagship chipset
+Price: ₹59,999
+Best Use Case: High-performance users
+
+--- VEHICLES ---
+
+781.
+Name: Maruti WagonR Flex Fuel
+Category: Hatchback
+Key Features: Flex fuel engine
+Price: ₹6,50,000
+Best Use Case: Cost-effective commuting
+
+782.
+Name: Maruti Baleno Hybrid
+Category: Hatchback
+Key Features: Hybrid mileage
+Price: ₹9,50,000
+Best Use Case: City family car
+
+783.
+Name: Hyundai Verna Turbo
+Category: Sedan
+Key Features: Powerful turbo engine
+Price: ₹15,00,000
+Best Use Case: Performance sedan users
+
+784.
+Name: Honda City Hybrid
+Category: Sedan
+Key Features: Excellent fuel economy
+Price: ₹18,50,000
+Best Use Case: Comfortable daily driving
+
+785.
+Name: Toyota Camry Hybrid
+Category: Sedan
+Key Features: Premium hybrid
+Price: ₹46,00,000
+Best Use Case: Executive comfort
+
+786.
+Name: Skoda Slavia
+Category: Sedan
+Key Features: Turbo petrol
+Price: ₹11,50,000
+Best Use Case: Driving enthusiasts
+
+787.
+Name: Volkswagen Virtus
+Category: Sedan
+Key Features: German handling
+Price: ₹11,70,000
+Best Use Case: Sporty sedan buyers
+
+788.
+Name: Tata Nexon CNG
+Category: Compact SUV
+Key Features: Dual fuel
+Price: ₹9,00,000
+Best Use Case: Low running cost
+
+789.
+Name: Tata Punch EV
+Category: Electric SUV
+Key Features: Affordable EV
+Price: ₹12,00,000
+Best Use Case: First-time EV buyers
+
+790.
+Name: Tata Harrier EV
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹30,00,000
+Best Use Case: Family electric SUV
+
+791.
+Name: Mahindra Scorpio-N
+Category: SUV
+Key Features: Powerful diesel
+Price: ₹15,00,000
+Best Use Case: Highway and off-road
+
+792.
+Name: Mahindra XUV700
+Category: SUV
+Key Features: ADAS safety
+Price: ₹16,50,000
+Best Use Case: Tech-savvy families
+
+793.
+Name: Mahindra Bolero Neo
+Category: SUV
+Key Features: Rugged design
+Price: ₹9,50,000
+Best Use Case: Rural usage
+
+794.
+Name: Toyota Fortuner Hybrid
+Category: SUV
+Key Features: Hybrid powertrain
+Price: ₹42,00,000
+Best Use Case: Premium SUV buyers
+
+795.
+Name: Toyota Innova Hycross
+Category: MPV
+Key Features: Hybrid efficiency
+Price: ₹19,50,000
+Best Use Case: Large families
+
+796.
+Name: Kia Carnival
+Category: MPV
+Key Features: Luxury seating
+Price: ₹35,00,000
+Best Use Case: Premium family transport
+
+797.
+Name: Hyundai Stargazer
+Category: MPV
+Key Features: Modern design
+Price: ₹12,00,000
+Best Use Case: Urban family use
+
+798.
+Name: Renault Triber CNG
+Category: MPV
+Key Features: Affordable CNG
+Price: ₹7,50,000
+Best Use Case: Budget family travel
+
+799.
+Name: Citroen C3 Aircross
+Category: SUV
+Key Features: Comfort suspension
+Price: ₹9,99,000
+Best Use Case: Comfortable daily drive
+
+800.
+Name: Nissan Magnite Turbo
+Category: SUV
+Key Features: Turbo petrol
+Price: ₹10,50,000
+Best Use Case: Value SUV buyers
+
+--- TWO-WHEELERS ---
+
+801.
+Name: Hero Splendor Plus XTEC
+Category: Motorcycle
+Key Features: Digital console
+Price: ₹78,000
+Best Use Case: Daily commuting
+
+802.
+Name: Hero HF Deluxe
+Category: Motorcycle
+Key Features: High mileage
+Price: ₹60,000
+Best Use Case: Budget commuting
+
+803.
+Name: Honda Shine 125
+Category: Motorcycle
+Key Features: Smooth engine
+Price: ₹80,000
+Best Use Case: Reliable daily rides
+
+804.
+Name: Bajaj CT 125X
+Category: Motorcycle
+Key Features: Rugged build
+Price: ₹75,000
+Best Use Case: Rough road commuting
+
+805.
+Name: Bajaj Pulsar NS200
+Category: Motorcycle
+Key Features: Sporty performance
+Price: ₹1,45,000
+Best Use Case: Performance riders
+
+806.
+Name: Yamaha R15 V4
+Category: Sports Bike
+Key Features: Track styling
+Price: ₹1,82,000
+Best Use Case: Beginner sport riding
+
+807.
+Name: TVS Apache RTR 160 4V
+Category: Motorcycle
+Key Features: Race-tuned engine
+Price: ₹1,24,000
+Best Use Case: Sporty commuting
+
+808.
+Name: Royal Enfield Bullet 350
+Category: Motorcycle
+Key Features: Classic design
+Price: ₹1,74,000
+Best Use Case: Relaxed cruising
+
+809.
+Name: Royal Enfield Meteor 350
+Category: Motorcycle
+Key Features: Touring comfort
+Price: ₹2,05,000
+Best Use Case: Highway touring
+
+810.
+Name: KTM Adventure 390
+Category: Adventure Bike
+Key Features: Long travel suspension
+Price: ₹3,38,000
+Best Use Case: Touring and off-road
+
+--- ELECTRIC TWO-WHEELERS ---
+
+811.
+Name: Hero Vida V1
+Category: Electric Scooter
+Key Features: Removable battery
+Price: ₹1,25,000
+Best Use Case: Urban EV commute
+
+812.
+Name: Bajaj Chetak Premium
+Category: Electric Scooter
+Key Features: Metal body
+Price: ₹1,50,000
+Best Use Case: Premium EV riding
+
+813.
+Name: TVS X EV
+Category: Electric Scooter
+Key Features: Performance EV
+Price: ₹2,50,000
+Best Use Case: Tech enthusiasts
+
+814.
+Name: River Indie
+Category: Electric Scooter
+Key Features: Storage-focused design
+Price: ₹1,38,000
+Best Use Case: Practical city use
+
+815.
+Name: Ultraviolette F77
+Category: Electric Motorcycle
+Key Features: High performance
+Price: ₹3,80,000
+Best Use Case: Performance EV riders
+
+816.
+Name: Oben Rorr
+Category: Electric Motorcycle
+Key Features: Fast charging
+Price: ₹1,50,000
+Best Use Case: Electric commuting
+
+817.
+Name: Joy e-Bike Mihos
+Category: Electric Scooter
+Key Features: High speed EV
+Price: ₹1,30,000
+Best Use Case: City EV users
+
+818.
+Name: PURE EV ePluto 7G
+Category: Electric Scooter
+Key Features: Affordable EV
+Price: ₹90,000
+Best Use Case: Budget EV commuting
+
+819.
+Name: Okaya Faast F4
+Category: Electric Scooter
+Key Features: Quick acceleration
+Price: ₹1,10,000
+Best Use Case: Youth EV riders
+
+820.
+Name: LML Star Electric
+Category: Electric Scooter
+Key Features: Retro design
+Price: ₹1,20,000
+Best Use Case: Stylish EV commute
+
+--- COMMERCIAL ---
+
+821.
+Name: Tata Ace CNG
+Category: Commercial Vehicle
+Key Features: Low fuel cost
+Price: ₹6,50,000
+Best Use Case: Small business delivery
+
+822.
+Name: Mahindra Jeeto EV
+Category: Electric Cargo
+Key Features: Compact EV truck
+Price: ₹4,50,000
+Best Use Case: Urban logistics
+
+823.
+Name: Ashok Leyland Partner
+Category: Light Truck
+Key Features: High payload
+Price: ₹15,00,000
+Best Use Case: Cargo transport
+
+824.
+Name: Eicher Pro 2110
+Category: Truck
+Key Features: Heavy load capacity
+Price: ₹18,00,000
+Best Use Case: Long haul logistics
+
+825.
+Name: BharatBenz 1017R
+Category: Truck
+Key Features: Strong build
+Price: ₹20,00,000
+Best Use Case: Commercial transport
+
+--- PREMIUM GLOBAL ---
+
+826.
+Name: Porsche Taycan GTS
+Category: Electric Sedan
+Key Features: Performance EV
+Price: ₹1,85,00,000
+Best Use Case: Luxury performance EV
+
+827.
+Name: Porsche Macan EV
+Category: Electric SUV
+Key Features: Sporty luxury
+Price: ₹1,20,00,000
+Best Use Case: Premium SUV EV
+
+828.
+Name: Lamborghini Lanzador
+Category: Electric Concept
+Key Features: Ultra performance EV
+Price: ₹3,00,00,000
+Best Use Case: Future hyper EV
+
+829.
+Name: Ferrari Purosangue EV
+Category: Electric SUV
+Key Features: Luxury performance
+Price: ₹3,50,00,000
+Best Use Case: Ultra luxury EV
+
+830.
+Name: Rimac Nevera
+Category: Electric Hypercar
+Key Features: Extreme acceleration
+Price: ₹20,00,00,000
+Best Use Case: Hypercar collectors
+
+831.
+Name: Koenigsegg Gemera EV
+Category: Electric Hypercar
+Key Features: Hybrid hyper performance
+Price: ₹25,00,00,000
+Best Use Case: Ultra rich collectors
+
+832.
+Name: Lotus Eletre
+Category: Electric SUV
+Key Features: Performance SUV
+Price: ₹2,50,00,000
+Best Use Case: Sporty luxury EV
+
+833.
+Name: Rolls-Royce Spectre
+Category: Electric Coupe
+Key Features: Ultra luxury EV
+Price: ₹8,00,00,000
+Best Use Case: Elite luxury travel
+
+834.
+Name: Bentley EXP 100 GT
+Category: Electric Concept
+Key Features: Luxury future EV
+Price: ₹6,00,00,000
+Best Use Case: Concept showcase
+
+835.
+Name: Aston Martin Valhalla EV
+Category: Electric Supercar
+Key Features: Aerodynamic design
+Price: ₹7,00,00,000
+Best Use Case: Performance collectors
+
+--- FINAL SMARTPHONES ---
+
+836.
+Name: Asus ROG Phone 8
+Category: Smartphone
+Key Features: Gaming-focused
+Price: ₹79,999
+Best Use Case: Hardcore gamers
+
+837.
+Name: Nubia Red Magic 9 Pro
+Category: Smartphone
+Key Features: Active cooling
+Price: ₹69,999
+Best Use Case: Competitive gaming
+
+838.
+Name: Sony Xperia 5 V
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹89,999
+Best Use Case: Media professionals
+
+839.
+Name: Huawei P70 Pro
+Category: Smartphone
+Key Features: Advanced camera
+Price: ₹99,999
+Best Use Case: Photography enthusiasts
+
+840.
+Name: Honor Magic 6 Pro
+Category: Smartphone
+Key Features: AI camera
+Price: ₹89,999
+Best Use Case: Flagship users
+
+841.
+Name: ZTE Axon 60 Ultra
+Category: Smartphone
+Key Features: Under-display camera
+Price: ₹75,000
+Best Use Case: Tech enthusiasts
+
+842.
+Name: Meizu 21 Pro
+Category: Smartphone
+Key Features: Clean UI
+Price: ₹65,000
+Best Use Case: Smooth experience
+
+843.
+Name: Sharp Aquos R8 Pro
+Category: Smartphone
+Key Features: Professional display
+Price: ₹95,000
+Best Use Case: Display lovers
+
+844.
+Name: LG Wing 2
+Category: Smartphone
+Key Features: Swivel display
+Price: ₹85,000
+Best Use Case: Multitasking users
+
+845.
+Name: Fairphone 6
+Category: Smartphone
+Key Features: Repairable design
+Price: ₹70,000
+Best Use Case: Sustainable tech users
+
+846.
+Name: Cat S75
+Category: Smartphone
+Key Features: Rugged build
+Price: ₹60,000
+Best Use Case: Outdoor usage
+
+847.
+Name: Doogee V30
+Category: Smartphone
+Key Features: Extra rugged
+Price: ₹55,000
+Best Use Case: Industrial use
+
+848.
+Name: Ulefone Power Armor 19
+Category: Smartphone
+Key Features: Huge battery
+Price: ₹58,000
+Best Use Case: Extreme conditions
+
+849.
+Name: Energizer Hardcase P28K
+Category: Smartphone
+Key Features: Massive battery
+Price: ₹45,000
+Best Use Case: Ultra long battery needs
+
+850.
+Name: Panasonic Eluga X2
+Category: Smartphone
+Key Features: Simple UI
+Price: ₹18,000
+Best Use Case: Basic smartphone use
+
+--- CLOSING ---
+
+851.
+Name: Tata Winger EV
+Category: Electric Van
+Key Features: Cargo EV
+Price: ₹20,00,000
+Best Use Case: Commercial EV transport
+
+852.
+Name: Mahindra E-Supro
+Category: Electric Van
+Key Features: Zero emission
+Price: ₹18,00,000
+Best Use Case: Urban logistics
+
+853.
+Name: Mercedes eVito
+Category: Electric Van
+Key Features: Premium EV van
+Price: ₹45,00,000
+Best Use Case: Luxury transport
+
+854.
+Name: Ford E-Transit
+Category: Electric Van
+Key Features: Large cargo space
+Price: ₹55,00,000
+Best Use Case: Fleet operations
+
+855.
+Name: Volkswagen ID.Buzz
+Category: Electric Van
+Key Features: Retro EV design
+Price: ₹65,00,000
+Best Use Case: Lifestyle EV
+
+856.
+Name: Rivian R1S
+Category: Electric SUV
+Key Features: Adventure EV
+Price: ₹75,00,000
+Best Use Case: Off-road EV travel
+
+857.
+Name: Rivian R1T
+Category: Electric Pickup
+Key Features: Rugged EV
+Price: ₹70,00,000
+Best Use Case: Utility EV
+
+858.
+Name: Fisker Ocean
+Category: Electric SUV
+Key Features: Solar roof
+Price: ₹50,00,000
+Best Use Case: Eco-conscious buyers
+
+859.
+Name: Karma Revero EV
+Category: Electric Sedan
+Key Features: Luxury EV
+Price: ₹1,10,00,000
+Best Use Case: Executive EV
+
+860.
+Name: Aptera Solar EV
+Category: Electric Car
+Key Features: Solar charging
+Price: ₹30,00,000
+Best Use Case: Ultra efficient travel
+
+861.
+Name: Lightyear 2
+Category: Electric Car
+Key Features: Solar integration
+Price: ₹40,00,000
+Best Use Case: Sustainable mobility
+
+862.
+Name: Sono Sion
+Category: Electric Hatchback
+Key Features: Solar panels
+Price: ₹25,00,000
+Best Use Case: Green commuting
+
+863.
+Name: VinFast VF8
+Category: Electric SUV
+Key Features: Global EV
+Price: ₹45,00,000
+Best Use Case: Mid-range EV
+
+864.
+Name: VinFast VF9
+Category: Electric SUV
+Key Features: Large EV
+Price: ₹65,00,000
+Best Use Case: Family EV
+
+865.
+Name: Lucid Air Pure
+Category: Electric Sedan
+Key Features: Long range
+Price: ₹90,00,000
+Best Use Case: Long-distance EV travel
+
+866.
+Name: Lucid Gravity SUV
+Category: Electric SUV
+Key Features: Premium EV
+Price: ₹1,00,00,000
+Best Use Case: Luxury EV
+
+867.
+Name: Faraday Future FF91
+Category: Electric SUV
+Key Features: Futuristic design
+Price: ₹1,50,00,000
+Best Use Case: Tech showcase
+
+868.
+Name: VinFast VF5
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹18,00,000
+Best Use Case: City EV use
+
+869.
+Name: BYD Dolphin
+Category: Electric Hatchback
+Key Features: Affordable EV
+Price: ₹18,00,000
+Best Use Case: Daily EV commute
+
+870.
+Name: BYD Seal
+Category: Electric Sedan
+Key Features: Performance EV
+Price: ₹45,00,000
+Best Use Case: Sporty electric sedan
+
+871.
+Name: BYD Atto 3
+Category: Electric SUV
+Key Features: Reliable EV
+Price: ₹33,00,000
+Best Use Case: Family EV
+
+872.
+Name: MG Cyberster
+Category: Electric Roadster
+Key Features: Convertible EV
+Price: ₹80,00,000
+Best Use Case: Lifestyle EV
+
+873.
+Name: MG Marvel R
+Category: Electric SUV
+Key Features: AWD EV
+Price: ₹50,00,000
+Best Use Case: Premium EV driving
+
+874.
+Name: Zeekr 009
+Category: Electric MPV
+Key Features: Luxury EV MPV
+Price: ₹1,20,00,000
+Best Use Case: VIP transport
+
+875.
+Name: Toyota bZ4X
+Category: Electric SUV
+Key Features: Toyota reliability
+Price: ₹45,00,000
+Best Use Case: Long-term EV ownership
+
+876.
+Name: Lexus RZ 450e
+Category: Electric SUV
+Key Features: Premium build
+Price: ₹70,00,000
+Best Use Case: Luxury EV buyers
+
+877.
+Name: Subaru Solterra
+Category: Electric SUV
+Key Features: AWD EV
+Price: ₹48,00,000
+Best Use Case: All-weather driving
+
+878.
+Name: Mazda CX-90 EV
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹60,00,000
+Best Use Case: Family EV
+
+879.
+Name: Honda Prologue EV
+Category: Electric SUV
+Key Features: Practical EV
+Price: ₹45,00,000
+Best Use Case: Honda loyalists
+
+880.
+Name: Acura ZDX EV
+Category: Electric SUV
+Key Features: Sporty EV
+Price: ₹55,00,000
+Best Use Case: Premium EV SUV
+
+881.
+Name: Genesis GV70 EV
+Category: Electric SUV
+Key Features: Luxury design
+Price: ₹65,00,000
+Best Use Case: Premium buyers
+
+882.
+Name: Genesis GV60 EV
+Category: Electric SUV
+Key Features: Compact luxury
+Price: ₹55,00,000
+Best Use Case: Urban premium EV
+
+883.
+Name: Alfa Romeo Tonale EV
+Category: Electric SUV
+Key Features: Italian styling
+Price: ₹50,00,000
+Best Use Case: Style-driven buyers
+
+884.
+Name: Maserati Grecale Folgore
+Category: Electric SUV
+Key Features: Performance luxury
+Price: ₹1,30,00,000
+Best Use Case: Luxury performance EV
+
+885.
+Name: Maserati GranTurismo Folgore
+Category: Electric Coupe
+Key Features: Sport luxury
+Price: ₹2,50,00,000
+Best Use Case: Elite EV buyers
+
+886.
+Name: McLaren Artura EV
+Category: Hybrid Supercar
+Key Features: Lightweight hybrid
+Price: ₹5,00,00,000
+Best Use Case: Performance collectors
+
+887.
+Name: Bugatti Mistral EV
+Category: Electric Hypercar
+Key Features: Exclusive design
+Price: ₹30,00,00,000
+Best Use Case: Ultra-elite collectors
+
+888.
+Name: Pagani Utopia EV
+Category: Electric Hypercar
+Key Features: Handmade design
+Price: ₹25,00,00,000
+Best Use Case: Hypercar collectors
+
+889.
+Name: Rimac Concept Two
+Category: Electric Hypercar
+Key Features: Extreme performance
+Price: ₹20,00,00,000
+Best Use Case: Record-breaking EV
+
+890.
+Name: DeLorean Alpha5
+Category: Electric Coupe
+Key Features: Gull-wing doors
+Price: ₹70,00,000
+Best Use Case: Retro-future fans
+
+--- FINAL ---
+
+891.
+Name: MG Comet EV
+Category: Electric Microcar
+Key Features: Compact EV
+Price: ₹8,00,000
+Best Use Case: City-only use
+
+892.
+Name: Tata Tiago EV
+Category: Electric Hatchback
+Key Features: Affordable EV
+Price: ₹8,50,000
+Best Use Case: Entry EV buyers
+
+893.
+Name: Tata Tigor EV
+Category: Electric Sedan
+Key Features: Reliable EV
+Price: ₹12,00,000
+Best Use Case: Fleet and personal use
+
+894.
+Name: Citroen e-C3
+Category: Electric Hatchback
+Key Features: Comfort suspension
+Price: ₹11,50,000
+Best Use Case: City driving
+
+895.
+Name: Renault Kwid EV
+Category: Electric Hatchback
+Key Features: Budget EV
+Price: ₹10,00,000
+Best Use Case: Entry-level EV
+
+896.
+Name: Maruti WagonR EV
+Category: Electric Hatchback
+Key Features: Mass-market EV
+Price: ₹11,00,000
+Best Use Case: Family EV use
+
+897.
+Name: Hyundai i20 EV
+Category: Electric Hatchback
+Key Features: Premium EV
+Price: ₹15,00,000
+Best Use Case: Urban premium buyers
+
+898.
+Name: Kia Soul EV
+Category: Electric SUV
+Key Features: Quirky design
+Price: ₹25,00,000
+Best Use Case: Style-focused EV
+
+899.
+Name: Nissan Leaf
+Category: Electric Hatchback
+Key Features: Proven EV
+Price: ₹30,00,000
+Best Use Case: Reliable EV ownership
+
+900.
+Name: Chevrolet Equinox EV
+Category: Electric SUV
+Key Features: Affordable EV SUV
+Price: ₹35,00,000
+Best Use Case: Family EV
+
+901.
+Name: Ford Explorer EV
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹45,00,000
+Best Use Case: Large families
+
+902.
+Name: Skoda Enyaq
+Category: Electric SUV
+Key Features: Practical EV
+Price: ₹42,00,000
+Best Use Case: Family EV travel
+
+903.
+Name: Volkswagen ID.4
+Category: Electric SUV
+Key Features: Balanced EV
+Price: ₹40,00,000
+Best Use Case: Daily EV driving
+
+904.
+Name: Volkswagen ID.7
+Category: Electric Sedan
+Key Features: Long-range EV
+Price: ₹55,00,000
+Best Use Case: Highway travel
+
+905.
+Name: Seat Cupra Tavascan
+Category: Electric SUV
+Key Features: Sporty EV
+Price: ₹50,00,000
+Best Use Case: Performance EV
+
+906.
+Name: Peugeot e-5008
+Category: Electric SUV
+Key Features: 7-seater EV
+Price: ₹48,00,000
+Best Use Case: Family EV
+
+907.
+Name: Opel Astra Electric
+Category: Electric Hatchback
+Key Features: Compact EV
+Price: ₹30,00,000
+Best Use Case: City commuting
+
+908.
+Name: Fiat Panda EV
+Category: Electric Hatchback
+Key Features: Small EV
+Price: ₹20,00,000
+Best Use Case: Urban driving
+
+909.
+Name: Suzuki Alto EV
+Category: Electric Hatchback
+Key Features: Affordable EV
+Price: ₹9,00,000
+Best Use Case: Budget EV buyers
+
+910.
+Name: Daihatsu Mira EV
+Category: Electric Hatchback
+Key Features: Kei EV
+Price: ₹8,50,000
+Best Use Case: City EV
+
+911.
+Name: Honda N-Van EV
+Category: Electric Van
+Key Features: Compact cargo EV
+Price: ₹15,00,000
+Best Use Case: Urban delivery
+
+912.
+Name: Toyota Proace EV
+Category: Electric Van
+Key Features: Cargo EV
+Price: ₹35,00,000
+Best Use Case: Commercial transport
+
+913.
+Name: Peugeot e-Partner
+Category: Electric Van
+Key Features: Efficient cargo EV
+Price: ₹30,00,000
+Best Use Case: Business logistics
+
+914.
+Name: Citroen e-Berlingo
+Category: Electric Van
+Key Features: Spacious EV
+Price: ₹32,00,000
+Best Use Case: Family + cargo
+
+915.
+Name: Nissan Townstar EV
+Category: Electric Van
+Key Features: Reliable EV
+Price: ₹28,00,000
+Best Use Case: Small businesses
+
+916.
+Name: Renault Kangoo EV
+Category: Electric Van
+Key Features: Practical EV
+Price: ₹27,00,000
+Best Use Case: Delivery services
+
+917.
+Name: Mercedes EQT
+Category: Electric MPV
+Key Features: Premium EV MPV
+Price: ₹55,00,000
+Best Use Case: Luxury family transport
+
+918.
+Name: Mercedes eSprinter
+Category: Electric Van
+Key Features: Large cargo EV
+Price: ₹65,00,000
+Best Use Case: Fleet operations
+
+919.
+Name: Iveco Daily EV
+Category: Electric Truck
+Key Features: Heavy-duty EV
+Price: ₹75,00,000
+Best Use Case: Logistics
+
+920.
+Name: MAN eTGE
+Category: Electric Van
+Key Features: Commercial EV
+Price: ₹60,00,000
+Best Use Case: Cargo transport
+
+921.
+Name: Volvo FM Electric
+Category: Electric Truck
+Key Features: Heavy cargo EV
+Price: ₹2,00,00,000
+Best Use Case: Industrial logistics
+
+922.
+Name: Scania BEV Truck
+Category: Electric Truck
+Key Features: Long-haul EV
+Price: ₹2,50,00,000
+Best Use Case: Freight transport
+
+923.
+Name: Tesla Semi
+Category: Electric Truck
+Key Features: Long-range EV truck
+Price: ₹3,00,00,000
+Best Use Case: Heavy logistics
+
+924.
+Name: Nikola Tre BEV
+Category: Electric Truck
+Key Features: Hydrogen-ready
+Price: ₹2,80,00,000
+Best Use Case: Green logistics
+
+925.
+Name: Freightliner eCascadia
+Category: Electric Truck
+Key Features: Heavy-duty EV
+Price: ₹3,20,00,000
+Best Use Case: Commercial freight
+
+926.
+Name: BYD T4 Electric Truck
+Category: Electric Truck
+Key Features: City delivery
+Price: ₹90,00,000
+Best Use Case: Urban logistics
+
+927.
+Name: BYD T9 Electric Truck
+Category: Electric Truck
+Key Features: Medium haul
+Price: ₹1,50,00,000
+Best Use Case: City + highway logistics
+
+928.
+Name: Tata Ultra EV
+Category: Electric Truck
+Key Features: Indian EV truck
+Price: ₹1,20,00,000
+Best Use Case: Fleet operations
+
+929.
+Name: Ashok Leyland AVTR EV
+Category: Electric Truck
+Key Features: Modular EV
+Price: ₹1,80,00,000
+Best Use Case: Commercial transport
+
+930.
+Name: Eicher Pro EV Series
+Category: Electric Truck
+Key Features: Medium-duty EV
+Price: ₹1,40,00,000
+Best Use Case: Logistics fleet
+
+931.
+Name: Isuzu D-Max EV
+Category: Electric Pickup
+Key Features: Utility EV
+Price: ₹45,00,000
+Best Use Case: Commercial usage
+
+932.
+Name: Toyota Hilux EV
+Category: Electric Pickup
+Key Features: Rugged EV
+Price: ₹55,00,000
+Best Use Case: Off-road utility
+
+933.
+Name: Ford Ranger EV
+Category: Electric Pickup
+Key Features: Workhorse EV
+Price: ₹60,00,000
+Best Use Case: Utility + EV
+
+934.
+Name: GMC Sierra EV
+Category: Electric Pickup
+Key Features: Premium EV truck
+Price: ₹75,00,000
+Best Use Case: Luxury pickup buyers
+
+935.
+Name: Chevrolet Silverado EV
+Category: Electric Pickup
+Key Features: Large battery
+Price: ₹70,00,000
+Best Use Case: Heavy utility
+
+936.
+Name: RAM 1500 REV
+Category: Electric Pickup
+Key Features: High towing capacity
+Price: ₹80,00,000
+Best Use Case: Heavy-duty EV
+
+937.
+Name: Rivian R2
+Category: Electric SUV
+Key Features: Compact adventure EV
+Price: ₹45,00,000
+Best Use Case: Outdoor enthusiasts
+
+938.
+Name: Fisker Pear
+Category: Electric Hatchback
+Key Features: Affordable EV
+Price: ₹25,00,000
+Best Use Case: City EV use
+
+939.
+Name: Canoo Lifestyle Vehicle
+Category: Electric Van
+Key Features: Modular interior
+Price: ₹40,00,000
+Best Use Case: Flexible transport
+
+940.
+Name: Canoo Pickup
+Category: Electric Pickup
+Key Features: Compact pickup EV
+Price: ₹45,00,000
+Best Use Case: Utility + city use
+
+941.
+Name: Bollinger B1
+Category: Electric SUV
+Key Features: Rugged EV
+Price: ₹90,00,000
+Best Use Case: Off-road EV
+
+942.
+Name: Bollinger B2
+Category: Electric Pickup
+Key Features: Utility EV
+Price: ₹95,00,000
+Best Use Case: Work EV
+
+943.
+Name: Lordstown Endurance
+Category: Electric Pickup
+Key Features: Fleet-focused EV
+Price: ₹55,00,000
+Best Use Case: Commercial fleets
+
+944.
+Name: Hummer EV SUV
+Category: Electric SUV
+Key Features: Extreme off-road
+Price: ₹1,10,00,000
+Best Use Case: Rugged luxury
+
+945.
+Name: Hummer EV Pickup
+Category: Electric Pickup
+Key Features: Crab walk
+Price: ₹1,15,00,000
+Best Use Case: Extreme utility
+
+946.
+Name: Tesla Cybertruck
+Category: Electric Pickup
+Key Features: Stainless steel body
+Price: ₹75,00,000
+Best Use Case: Futuristic utility
+
+947.
+Name: Sony Vision-S 02
+Category: Electric SUV
+Key Features: Sensor-heavy tech
+Price: ₹80,00,000
+Best Use Case: Tech showcase
+
+948.
+Name: Xiaomi SU7
+Category: Electric Sedan
+Key Features: Smart EV ecosystem
+Price: ₹45,00,000
+Best Use Case: Tech-driven EV users
+
+949.
+Name: Huawei Luxeed S7
+Category: Electric Sedan
+Key Features: HarmonyOS integration
+Price: ₹50,00,000
+Best Use Case: Smart ecosystem users
+
+950.
+Name: Apple Project Titan
+Category: Electric Concept Car
+Key Features: Apple software integration
+Price: ₹1,00,00,000
+Best Use Case: Concept and research
+
+951.
+Name: Samsung Galaxy Z Fold 6
+Category: Smartphone
+Key Features: Foldable display, multitasking
+Price: ₹1,64,999
+Best Use Case: Productivity and multitasking
+
+952.
+Name: Samsung Galaxy Z Flip 6
+Category: Smartphone
+Key Features: Compact foldable
+Price: ₹1,09,999
+Best Use Case: Stylish compact phone users
+
+953.
+Name: Google Pixel 9
+Category: Smartphone
+Key Features: Tensor AI chip
+Price: ₹74,999
+Best Use Case: Clean Android experience
+
+954.
+Name: Google Pixel 9 Pro
+Category: Smartphone
+Key Features: Advanced AI camera
+Price: ₹99,999
+Best Use Case: Photography lovers
+
+955.
+Name: Google Pixel Fold 2
+Category: Smartphone
+Key Features: Foldable Pixel
+Price: ₹1,59,999
+Best Use Case: Premium foldable users
+
+956.
+Name: Nothing Phone (3)
+Category: Smartphone
+Key Features: Glyph interface
+Price: ₹45,000
+Best Use Case: Design-focused users
+
+957.
+Name: Motorola Edge 50 Pro
+Category: Smartphone
+Key Features: Curved OLED display
+Price: ₹36,999
+Best Use Case: Premium midrange users
+
+958.
+Name: Motorola Razr 50 Ultra
+Category: Smartphone
+Key Features: Foldable flip design
+Price: ₹99,999
+Best Use Case: Stylish foldable users
+
+959.
+Name: Asus Zenfone 11
+Category: Smartphone
+Key Features: Compact flagship
+Price: ₹64,999
+Best Use Case: One-hand usage
+
+960.
+Name: Asus ROG Phone 9
+Category: Smartphone
+Key Features: Advanced cooling
+Price: ₹84,999
+Best Use Case: Hardcore gaming
+
+961.
+Name: Infinix Zero Ultra
+Category: Smartphone
+Key Features: Fast charging
+Price: ₹32,999
+Best Use Case: Budget performance
+
+962.
+Name: Tecno Phantom X3
+Category: Smartphone
+Key Features: Premium design
+Price: ₹44,999
+Best Use Case: Style + performance
+
+963.
+Name: Lava Agni 3
+Category: Smartphone
+Key Features: Made in India
+Price: ₹25,999
+Best Use Case: Affordable 5G
+
+964.
+Name: Micromax IN Note 3
+Category: Smartphone
+Key Features: Stock Android
+Price: ₹14,999
+Best Use Case: Budget Android users
+
+965.
+Name: Nokia X60
+Category: Smartphone
+Key Features: Clean UI, durability
+Price: ₹39,999
+Best Use Case: Long-term usage
+
+966.
+Name: Sony Xperia 1 VI
+Category: Smartphone
+Key Features: Pro-grade video
+Price: ₹1,19,999
+Best Use Case: Video creators
+
+967.
+Name: Lenovo Legion Phone Duel 3
+Category: Smartphone
+Key Features: Dual cooling fans
+Price: ₹79,999
+Best Use Case: Competitive gaming
+
+968.
+Name: Black Shark 6 Pro
+Category: Smartphone
+Key Features: Gaming triggers
+Price: ₹69,999
+Best Use Case: Mobile esports
+
+969.
+Name: Honor X50 Pro
+Category: Smartphone
+Key Features: AMOLED display
+Price: ₹29,999
+Best Use Case: Balanced daily use
+
+970.
+Name: Huawei Mate 60 Pro
+Category: Smartphone
+Key Features: Satellite communication
+Price: ₹89,999
+Best Use Case: Advanced connectivity
+
+--- VEHICLES ---
+
+971.
+Name: Maruti Swift Hybrid
+Category: Hatchback
+Key Features: Hybrid efficiency
+Price: ₹8,50,000
+Best Use Case: City commuting
+
+972.
+Name: Hyundai i10 EV
+Category: Electric Hatchback
+Key Features: Compact EV
+Price: ₹10,00,000
+Best Use Case: Urban driving
+
+973.
+Name: Tata Altroz Racer
+Category: Hatchback
+Key Features: Turbo petrol
+Price: ₹10,50,000
+Best Use Case: Sporty driving
+
+974.
+Name: Toyota Glanza Hybrid
+Category: Hatchback
+Key Features: Fuel efficiency
+Price: ₹9,00,000
+Best Use Case: Daily family use
+
+975.
+Name: Kia Sonet EV
+Category: Electric SUV
+Key Features: Compact electric SUV
+Price: ₹15,00,000
+Best Use Case: First-time EV buyers
+
+976.
+Name: Hyundai Creta EV
+Category: Electric SUV
+Key Features: Popular EV SUV
+Price: ₹22,00,000
+Best Use Case: Family EV
+
+977.
+Name: Tata Sierra EV
+Category: Electric SUV
+Key Features: Retro-modern design
+Price: ₹25,00,000
+Best Use Case: Lifestyle EV buyers
+
+978.
+Name: Mahindra Thar EV
+Category: Electric SUV
+Key Features: Off-road EV
+Price: ₹28,00,000
+Best Use Case: Adventure driving
+
+979.
+Name: Toyota Land Cruiser EV
+Category: Electric SUV
+Key Features: Extreme durability
+Price: ₹1,20,00,000
+Best Use Case: Luxury off-road EV
+
+980.
+Name: Jeep Recon EV
+Category: Electric SUV
+Key Features: Trail-rated EV
+Price: ₹60,00,000
+Best Use Case: Off-road enthusiasts
+
+--- TWO WHEELERS ---
+
+981.
+Name: Hero Xpulse 440
+Category: Motorcycle
+Key Features: Adventure ready
+Price: ₹2,30,000
+Best Use Case: Touring and trails
+
+982.
+Name: Bajaj Pulsar N250
+Category: Motorcycle
+Key Features: Sporty street bike
+Price: ₹1,45,000
+Best Use Case: Daily + fun rides
+
+983.
+Name: TVS Ronin 225
+Category: Motorcycle
+Key Features: Modern-retro
+Price: ₹1,49,000
+Best Use Case: Stylish commuting
+
+984.
+Name: Honda CB350RS
+Category: Motorcycle
+Key Features: Retro scrambler
+Price: ₹2,15,000
+Best Use Case: Relaxed riding
+
+985.
+Name: Yamaha MT-03
+Category: Motorcycle
+Key Features: Naked street bike
+Price: ₹3,50,000
+Best Use Case: Sport riding
+
+986.
+Name: Kawasaki Ninja ZX-4R
+Category: Sports Bike
+Key Features: Inline-4 engine
+Price: ₹8,50,000
+Best Use Case: Track enthusiasts
+
+987.
+Name: Ducati Monster SP
+Category: Motorcycle
+Key Features: Lightweight performance
+Price: ₹14,00,000
+Best Use Case: Premium sport riding
+
+988.
+Name: BMW G310 RR
+Category: Sports Bike
+Key Features: Track-focused
+Price: ₹3,05,000
+Best Use Case: Beginner sport riding
+
+989.
+Name: Harley-Davidson X440
+Category: Motorcycle
+Key Features: Torque-focused engine
+Price: ₹2,40,000
+Best Use Case: Highway cruising
+
+990.
+Name: Royal Enfield Himalayan 450
+Category: Adventure Bike
+Key Features: Liquid-cooled engine
+Price: ₹2,85,000
+Best Use Case: Long-distance touring
+
+--- ELECTRIC TWO WHEELERS ---
+
+991.
+Name: Ola Roadster
+Category: Electric Motorcycle
+Key Features: Performance EV
+Price: ₹2,00,000
+Best Use Case: Electric sport riding
+
+992.
+Name: Ather Rizta
+Category: Electric Scooter
+Key Features: Family-oriented EV
+Price: ₹1,10,000
+Best Use Case: Daily city commute
+
+993.
+Name: Simple One
+Category: Electric Scooter
+Key Features: Long range
+Price: ₹1,45,000
+Best Use Case: Long-distance EV commute
+
+994.
+Name: Bounce Infinity E1+
+Category: Electric Scooter
+Key Features: Battery swapping
+Price: ₹1,05,000
+Best Use Case: Flexible charging users
+
+995.
+Name: Tork Kratos X
+Category: Electric Motorcycle
+Key Features: Sporty EV
+Price: ₹1,80,000
+Best Use Case: EV enthusiasts
+
+--- COMMERCIAL & SPECIAL ---
+
+996.
+Name: Tata Ace EV Max
+Category: Electric Cargo
+Key Features: Higher payload
+Price: ₹9,00,000
+Best Use Case: Urban deliveries
+
+997.
+Name: Mahindra Zor Grand
+Category: Electric Cargo
+Key Features: Three-wheeler EV
+Price: ₹3,50,000
+Best Use Case: Small businesses
+
+998.
+Name: Piaggio Ape E-City
+Category: Electric Auto
+Key Features: Zero-emission transport
+Price: ₹3,00,000
+Best Use Case: Urban transport
+
+999.
+Name: Ashok Leyland ieV
+Category: Electric LCV
+Key Features: Commercial EV
+Price: ₹12,00,000
+Best Use Case: Logistics
+
+1000.
+Name: Eicher Pro X EV
+Category: Electric Truck
+Key Features: Medium-duty EV
+Price: ₹1,30,00,000
+Best Use Case: Fleet transport
+
+--- EXTRA (1000+) ---
+
+1001.
+Name: Tesla Model 2
+Category: Electric Hatchback
+Key Features: Affordable Tesla EV
+Price: ₹25,00,000
+Best Use Case: Mass-market EV
+
+1002.
+Name: Tesla Model Y Juniper
+Category: Electric SUV
+Key Features: Updated design
+Price: ₹55,00,000
+Best Use Case: Family EV
+
+1003.
+Name: Xiaomi Redmi Car
+Category: Electric Sedan
+Key Features: Smart ecosystem EV
+Price: ₹30,00,000
+Best Use Case: Tech-savvy users
+
+1004.
+Name: Sony Vision-S Sedan
+Category: Electric Sedan
+Key Features: Sensor-rich platform
+Price: ₹70,00,000
+Best Use Case: Technology showcase
+
+1005.
+Name: Samsung e-Mobility Concept
+Category: Electric Concept
+Key Features: Smart integration
+Price: ₹60,00,000
+Best Use Case: Future mobility research
+
+1006.
+Name: Oppo Smart EV
+Category: Electric Concept
+Key Features: AI integration
+Price: ₹40,00,000
+Best Use Case: Experimental mobility
+
+1007.
+Name: Vivo Smart Car
+Category: Electric Concept
+Key Features: Camera-focused system
+Price: ₹38,00,000
+Best Use Case: Sensor testing
+
+1008.
+Name: Lenovo Autonomous EV
+Category: Electric Concept
+Key Features: AI driving
+Price: ₹50,00,000
+Best Use Case: Autonomous research
+
+1009.
+Name: Foxconn MIH EV
+Category: Electric Platform
+Key Features: Modular EV
+Price: ₹35,00,000
+Best Use Case: EV development
+
+1010.
+Name: Apple Vision Car
+Category: Electric Concept
+Key Features: Apple ecosystem
+Price: ₹1,20,00,000
+Best Use Case: Concept mobility
+
+1011.
+Name: BYD Seagull
+Category: Electric Hatchback
+Key Features: Ultra affordable EV
+Price: ₹10,00,000
+Best Use Case: Budget EV users
+
+1012.
+Name: Chery QQ Ice Cream EV
+Category: Electric Hatchback
+Key Features: Mini EV
+Price: ₹8,00,000
+Best Use Case: Short city trips
+
+1013.
+Name: Wuling Mini EV
+Category: Electric Hatchback
+Key Features: Micro EV
+Price: ₹6,00,000
+Best Use Case: Ultra-budget commuting
+
+1014.
+Name: MG4 Electric
+Category: Electric Hatchback
+Key Features: Sporty EV
+Price: ₹28,00,000
+Best Use Case: Youth EV users
+
+1015.
+Name: Skoda Vision 7S
+Category: Electric SUV
+Key Features: 7-seat EV
+Price: ₹45,00,000
+Best Use Case: Large families
+
+1016.
+Name: Volkswagen ID.2
+Category: Electric Hatchback
+Key Features: Entry EV
+Price: ₹22,00,000
+Best Use Case: Affordable EV ownership
+
+1017.
+Name: Audi Q6 e-tron
+Category: Electric SUV
+Key Features: Premium EV
+Price: ₹85,00,000
+Best Use Case: Luxury EV buyers
+
+1018.
+Name: Audi A6 e-tron
+Category: Electric Sedan
+Key Features: Long-range EV
+Price: ₹90,00,000
+Best Use Case: Business executives
+
+1019.
+Name: BMW iX2
+Category: Electric SUV
+Key Features: Compact luxury EV
+Price: ₹70,00,000
+Best Use Case: Premium urban users
+
+1020.
+Name: BMW i5
+Category: Electric Sedan
+Key Features: Executive EV
+Price: ₹1,00,00,000
+Best Use Case: Corporate use
+
+1021.
+Name: Mercedes EQG
+Category: Electric SUV
+Key Features: Electric G-Wagon
+Price: ₹2,50,00,000
+Best Use Case: Luxury off-road EV
+
+1022.
+Name: Mercedes EQE SUV
+Category: Electric SUV
+Key Features: Comfort-focused EV
+Price: ₹1,10,00,000
+Best Use Case: Premium families
+
+1023.
+Name: Porsche Macan EV Turbo
+Category: Electric SUV
+Key Features: Performance EV
+Price: ₹1,50,00,000
+Best Use Case: Sporty luxury
+
+1024.
+Name: Volvo EX30
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹45,00,000
+Best Use Case: Urban premium EV
+
+1025.
+Name: Volvo EX90
+Category: Electric SUV
+Key Features: Safety-focused EV
+Price: ₹1,20,00,000
+Best Use Case: Family safety
+
+1026.
+Name: Polestar 4
+Category: Electric Coupe SUV
+Key Features: Minimalist design
+Price: ₹90,00,000
+Best Use Case: Design-conscious users
+
+1027.
+Name: Polestar 5
+Category: Electric Sedan
+Key Features: Performance EV
+Price: ₹1,10,00,000
+Best Use Case: Sporty executives
+
+1028.
+Name: Nio ET5
+Category: Electric Sedan
+Key Features: Battery swapping
+Price: ₹55,00,000
+Best Use Case: Tech-focused EV users
+
+1029.
+Name: Nio ES8
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹85,00,000
+Best Use Case: Premium families
+
+1030.
+Name: XPeng P7
+Category: Electric Sedan
+Key Features: Autonomous features
+Price: ₹50,00,000
+Best Use Case: Smart EV driving
+
+1031.
+Name: XPeng G9
+Category: Electric SUV
+Key Features: Fast charging
+Price: ₹65,00,000
+Best Use Case: Long-distance EV
+
+1032.
+Name: Leapmotor C11
+Category: Electric SUV
+Key Features: Value EV
+Price: ₹35,00,000
+Best Use Case: Affordable premium EV
+
+1033.
+Name: Aion Y
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹30,00,000
+Best Use Case: Family EV use
+
+1034.
+Name: Aion LX
+Category: Electric SUV
+Key Features: High-tech EV
+Price: ₹70,00,000
+Best Use Case: Tech enthusiasts
+
+1035.
+Name: Zeekr X
+Category: Electric SUV
+Key Features: Compact premium EV
+Price: ₹55,00,000
+Best Use Case: Urban luxury
+
+1036.
+Name: Zeekr 001
+Category: Electric Shooting Brake
+Key Features: Performance EV
+Price: ₹85,00,000
+Best Use Case: Performance touring
+
+1037.
+Name: IM Motors L7
+Category: Electric Sedan
+Key Features: Smart cockpit
+Price: ₹60,00,000
+Best Use Case: Tech-savvy drivers
+
+1038.
+Name: Avatr 11
+Category: Electric SUV
+Key Features: Huawei tech
+Price: ₹75,00,000
+Best Use Case: Smart mobility
+
+1039.
+Name: Baojun Yep
+Category: Electric SUV
+Key Features: Mini off-road EV
+Price: ₹18,00,000
+Best Use Case: Fun city EV
+
+1040.
+Name: Hongqi E-HS9
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹1,30,00,000
+Best Use Case: Ultra-luxury buyers
+
+1041.
+Name: Voyah Free
+Category: Electric SUV
+Key Features: Premium EV
+Price: ₹80,00,000
+Best Use Case: Luxury families
+
+1042.
+Name: Lynk & Co 08 EM-P
+Category: Hybrid SUV
+Key Features: Plug-in hybrid
+Price: ₹45,00,000
+Best Use Case: Hybrid users
+
+1043.
+Name: Geely Galaxy E8
+Category: Electric Sedan
+Key Features: Smart EV
+Price: ₹40,00,000
+Best Use Case: Tech users
+
+1044.
+Name: Changan Deepal SL03
+Category: Electric Sedan
+Key Features: Aerodynamic EV
+Price: ₹35,00,000
+Best Use Case: Daily EV driving
+
+1045.
+Name: Changan Avatr 12
+Category: Electric Sedan
+Key Features: Premium EV
+Price: ₹70,00,000
+Best Use Case: Executive EV
+
+1046.
+Name: Tata Curvv EV
+Category: Electric SUV Coupe
+Key Features: Coupe styling
+Price: ₹20,00,000
+Best Use Case: Youth EV buyers
+
+1047.
+Name: Mahindra BE.05
+Category: Electric SUV
+Key Features: INGLO platform
+Price: ₹22,00,000
+Best Use Case: Future-ready EV
+
+1048.
+Name: Mahindra XUV.e8
+Category: Electric SUV
+Key Features: 3-screen dashboard
+Price: ₹30,00,000
+Best Use Case: Tech families
+
+1049.
+Name: Tata Avinya
+Category: Electric Concept
+Key Features: Sustainable EV
+Price: ₹35,00,000
+Best Use Case: Future mobility
+
+1050.
+Name: Maruti eVX
+Category: Electric SUV
+Key Features: Mass-market EV
+Price: ₹18,00,000
+Best Use Case: Affordable EV SUV
+
+--- EXTENDED ---
+
+1051.
+Name: Renault Megane E-Tech
+Category: Electric Hatchback
+Key Features: European EV
+Price: ₹32,00,000
+Best Use Case: City EV
+
+1052.
+Name: Peugeot e-308
+Category: Electric Hatchback
+Key Features: Compact EV
+Price: ₹34,00,000
+Best Use Case: Daily commute
+
+1053.
+Name: Fiat 500e
+Category: Electric Hatchback
+Key Features: Retro EV
+Price: ₹28,00,000
+Best Use Case: Style-focused users
+
+1054.
+Name: Mini Cooper SE
+Category: Electric Hatchback
+Key Features: Go-kart feel
+Price: ₹40,00,000
+Best Use Case: Fun driving
+
+1055.
+Name: Smart #1
+Category: Electric SUV
+Key Features: Compact luxury
+Price: ₹38,00,000
+Best Use Case: Urban EV
+
+1056.
+Name: Smart #3
+Category: Electric Coupe SUV
+Key Features: Sporty EV
+Price: ₹42,00,000
+Best Use Case: Youth EV users
+
+1057.
+Name: Cupra Born
+Category: Electric Hatchback
+Key Features: Performance EV
+Price: ₹36,00,000
+Best Use Case: Sporty driving
+
+1058.
+Name: DS 4 Electric
+Category: Electric Hatchback
+Key Features: French luxury
+Price: ₹45,00,000
+Best Use Case: Premium buyers
+
+1059.
+Name: DS 7 Electric
+Category: Electric SUV
+Key Features: Luxury EV
+Price: ₹60,00,000
+Best Use Case: Executive travel
+
+1060.
+Name: Alfa Romeo Giulia EV
+Category: Electric Sedan
+Key Features: Sporty EV
+Price: ₹85,00,000
+Best Use Case: Performance lovers
+
+1061.
+Name: Lancia Ypsilon EV
+Category: Electric Hatchback
+Key Features: Stylish EV
+Price: ₹30,00,000
+Best Use Case: City driving
+
+1062.
+Name: Dacia Spring EV
+Category: Electric Hatchback
+Key Features: Budget EV
+Price: ₹15,00,000
+Best Use Case: Affordable mobility
+
+1063.
+Name: Skoda Elroq
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹35,00,000
+Best Use Case: Family EV
+
+1064.
+Name: Volkswagen ID.3
+Category: Electric Hatchback
+Key Features: Balanced EV
+Price: ₹32,00,000
+Best Use Case: Daily EV use
+
+1065.
+Name: Citroen Ami
+Category: Electric Microcar
+Key Features: Ultra compact
+Price: ₹7,00,000
+Best Use Case: Short trips
+
+1066.
+Name: Renault Twizy
+Category: Electric Microcar
+Key Features: Two-seater EV
+Price: ₹6,50,000
+Best Use Case: City commute
+
+1067.
+Name: Microlino EV
+Category: Electric Microcar
+Key Features: Retro design
+Price: ₹10,00,000
+Best Use Case: Urban mobility
+
+1068.
+Name: Silence S04
+Category: Electric Microcar
+Key Features: Swappable battery
+Price: ₹9,00,000
+Best Use Case: Short urban use
+
+1069.
+Name: Lightyear One
+Category: Solar Electric Car
+Key Features: Solar panels
+Price: ₹1,50,00,000
+Best Use Case: Ultra-efficient travel
+
+1070.
+Name: Sono Sion 2
+Category: Solar Electric Car
+Key Features: Solar charging
+Price: ₹28,00,000
+Best Use Case: Sustainable driving
+
+1071.
+Name: Aptera Gamma
+Category: Solar Electric Vehicle
+Key Features: Extreme efficiency
+Price: ₹35,00,000
+Best Use Case: Energy saving
+
+1072.
+Name: Tesla Roadster 2025
+Category: Electric Supercar
+Key Features: Extreme acceleration
+Price: ₹2,50,00,000
+Best Use Case: Supercar collectors
+
+1073.
+Name: Rimac Nevera R
+Category: Electric Hypercar
+Key Features: Track-focused
+Price: ₹22,00,00,000
+Best Use Case: Hypercar enthusiasts
+
+1074.
+Name: Lotus Evija
+Category: Electric Hypercar
+Key Features: Lightweight EV
+Price: ₹20,00,00,000
+Best Use Case: Elite collectors
+
+1075.
+Name: Pininfarina Battista
+Category: Electric Hypercar
+Key Features: Italian design
+Price: ₹18,00,00,000
+Best Use Case: Luxury hypercar
+
+1076.
+Name: Aspark Owl
+Category: Electric Hypercar
+Key Features: Record acceleration
+Price: ₹25,00,00,000
+Best Use Case: Speed collectors
+
+1077.
+Name: Mercedes Vision EQXX
+Category: Electric Concept
+Key Features: Extreme range
+Price: ₹1,50,00,000
+Best Use Case: Efficiency research
+
+1078.
+Name: BMW Vision Neue Klasse
+Category: Electric Concept
+Key Features: Future BMW design
+Price: ₹1,20,00,000
+Best Use Case: Concept showcase
+
+1079.
+Name: Audi Activesphere
+Category: Electric Concept
+Key Features: Luxury concept
+Price: ₹1,30,00,000
+Best Use Case: Design research
+
+1080.
+Name: Lexus Electrified Sport
+Category: Electric Concept
+Key Features: Performance EV
+Price: ₹1,80,00,000
+Best Use Case: Sport EV concept
+
+1081.
+Name: Toyota FT-Se
+Category: Electric Sports Concept
+Key Features: Lightweight EV
+Price: ₹1,00,00,000
+Best Use Case: Future sports EV
+
+1082.
+Name: Honda 0 Series Saloon
+Category: Electric Sedan
+Key Features: New EV platform
+Price: ₹45,00,000
+Best Use Case: Future Honda EV
+
+1083.
+Name: Honda 0 Series SUV
+Category: Electric SUV
+Key Features: Software-defined EV
+Price: ₹50,00,000
+Best Use Case: Smart family EV
+
+1084.
+Name: Mazda Vision Study Model
+Category: Electric Concept
+Key Features: Lightweight EV
+Price: ₹40,00,000
+Best Use Case: Concept research
+
+1085.
+Name: Subaru Sport Mobility
+Category: Electric Concept
+Key Features: AWD EV
+Price: ₹45,00,000
+Best Use Case: Adventure EV
+
+1086.
+Name: Suzuki eVX Concept
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹20,00,000
+Best Use Case: Entry EV SUV
+
+1087.
+Name: Daihatsu Vision Copen
+Category: Electric Roadster
+Key Features: Small sporty EV
+Price: ₹18,00,000
+Best Use Case: Fun driving
+
+1088.
+Name: Isuzu D-Max BEV Concept
+Category: Electric Pickup
+Key Features: Utility EV
+Price: ₹50,00,000
+Best Use Case: Work EV
+
+1089.
+Name: Mitsubishi e-Evolution
+Category: Electric SUV
+Key Features: Performance EV
+Price: ₹55,00,000
+Best Use Case: Sporty SUV
+
+1090.
+Name: Proton EMAS 7
+Category: Electric Sedan
+Key Features: ASEAN EV
+Price: ₹30,00,000
+Best Use Case: Regional EV
+
+1091.
+Name: Perodua e-MO II
+Category: Electric Hatchback
+Key Features: Budget EV
+Price: ₹15,00,000
+Best Use Case: Affordable mobility
+
+1092.
+Name: VinFast VF6
+Category: Electric SUV
+Key Features: Compact EV
+Price: ₹25,00,000
+Best Use Case: City EV
+
+1093.
+Name: VinFast VF7
+Category: Electric SUV
+Key Features: Mid-size EV
+Price: ₹35,00,000
+Best Use Case: Family EV
+
+1094.
+Name: Chery Omoda E5
+Category: Electric SUV
+Key Features: Stylish EV
+Price: ₹28,00,000
+Best Use Case: Urban families
+
+1095.
+Name: GAC Aion Hyper GT
+Category: Electric Sedan
+Key Features: Performance EV
+Price: ₹70,00,000
+Best Use Case: Sport EV lovers
+
+1096.
+Name: Great Wall Ora Funky Cat
+Category: Electric Hatchback
+Key Features: Retro styling
+Price: ₹22,00,000
+Best Use Case: Style-conscious users
+
+1097.
+Name: Haval H6 EV
+Category: Electric SUV
+Key Features: Spacious EV
+Price: ₹40,00,000
+Best Use Case: Family EV
+
+1098.
+Name: BAIC Arcfox Alpha S
+Category: Electric Sedan
+Key Features: Smart EV
+Price: ₹45,00,000
+Best Use Case: Tech-focused driving
+
+1099.
+Name: JAC iEV7S
+Category: Electric SUV
+Key Features: Affordable EV
+Price: ₹28,00,000
+Best Use Case: Budget EV buyers
+
+1100.
+Name: Skywell ET5
+Category: Electric SUV
+Key Features: Large interior
+Price: ₹42,00,000
+Best Use Case: Comfortable EV travel
