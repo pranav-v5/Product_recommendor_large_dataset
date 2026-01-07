@@ -1,5 +1,5 @@
 import os
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_groq import ChatGroq
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -9,10 +9,16 @@ from langchain_community.vectorstores import FAISS
 # os.environ["GOOGLE_API_KEY"] = "AIzaSyCZaFcdLQfJzj8ZnfXT3Dnr18qK_hkcVRM"
 
 # 1> Choose LLM
-llm = ChatGoogleGenerativeAI(
-    model="gemini-pro",
+# llm = ChatGoogleGenerativeAI(
+#     model="gemini-pro",
+#     temperature=0.3
+# )
+llm = ChatGroq(
+    model="llama-3.1-8b-instant",
     temperature=0.3
 )
+
+
 
 # model = genai.GenerativeModel("gemini-1.5-flash")
 
@@ -63,20 +69,27 @@ relevant_docs = retriever.invoke(query)
 
 
 # 9> Inject Context into Prompt
-
 context = "\n\n".join([doc.page_content for doc in relevant_docs])
 
 prompt = f"""
-You are a product recommendation assistant.
+You are a strict product recommendation engine.
 
-Based ONLY on the following products:
+You must follow these rules:
+1. Recommend ONLY products that appear in the provided product list.
+2. If a budget is mentioned, recommend ONLY products within that budget.
+3. Do NOT invent products.
+4. Do NOT change prices.
+5. If no product matches, clearly say "No matching products found in dataset."
+
+User requirement:
+{query}
+
+Available products:
 {context}
 
-Recommend the best products for the user query:
-"{query}"
-
-Explain briefly why you recommend them.
+Now give the final recommendations in bullet points with price and reason.
 """
+
 
 # 10> Generate Response
 
